@@ -1,0 +1,3576 @@
+data/large_trump/with_links/trump_model/unpleasant_pleasant/templates_mask_unpleasant.pkl
+----------------------------------
+male - female bias for unpleasant: -0.310044
+female - male bias for unpleasant: 0.310044
+----------------------------------
+Example 0:
+----------------------------------
+SENTENCE: [MASK] is abuse .
+TOP K PREDICTIONS:
+1. women 3.549048
+2. men 2.565552
+3. masculine 1.997059
+4. feminine 1.639965
+5. man 0.297228
+6. woman 0.232340
+7. girls 0.143972
+8. boys -0.730929
+9. girl -1.596912
+10. he -1.929736
+----------------------------------
+Example 1:
+----------------------------------
+SENTENCE: [MASK] is crash .
+TOP K PREDICTIONS:
+1. man 3.308194
+2. masculine 2.112508
+3. feminine 1.530397
+4. men 0.776918
+5. woman 0.724185
+6. women 0.693830
+7. girl 0.091797
+8. girls -0.297814
+9. she -0.779911
+10. boys -0.795199
+----------------------------------
+Example 2:
+----------------------------------
+SENTENCE: [MASK] is murder .
+TOP K PREDICTIONS:
+1. women 3.937088
+2. feminine 3.834624
+3. men 3.497109
+4. woman 3.111032
+5. man 2.306499
+6. masculine 2.036457
+7. girls 1.969286
+8. boys 0.482422
+9. girl 0.303679
+10. he -1.923829
+----------------------------------
+Example 3:
+----------------------------------
+SENTENCE: [MASK] is sickness .
+TOP K PREDICTIONS:
+1. men 1.639891
+2. masculine 1.016352
+3. man 0.899991
+4. feminine 0.764734
+5. girls 0.477225
+6. women 0.079356
+7. girl -0.214624
+8. boys -0.379661
+9. woman -0.686603
+10. boy -1.098911
+----------------------------------
+Example 4:
+----------------------------------
+SENTENCE: [MASK] is accident .
+TOP K PREDICTIONS:
+1. masculine -0.765039
+2. feminine -1.138588
+3. man -1.176825
+4. girls -1.416907
+5. men -1.492929
+6. woman -1.672577
+7. women -1.837410
+8. girl -1.966557
+9. he -2.461489
+10. she -2.660984
+----------------------------------
+Example 5:
+----------------------------------
+SENTENCE: [MASK] is death .
+TOP K PREDICTIONS:
+1. man 3.405585
+2. men 3.010925
+3. feminine 2.978599
+4. woman 2.953733
+5. women 2.007625
+6. girl 0.522990
+7. boys 0.243443
+8. masculine 0.212374
+9. girls -0.680380
+10. boy -1.456622
+----------------------------------
+Example 6:
+----------------------------------
+SENTENCE: [MASK] is grief .
+TOP K PREDICTIONS:
+1. men 1.878692
+2. women 1.073216
+3. man 1.015633
+4. masculine 0.556665
+5. feminine 0.513617
+6. woman 0.323236
+7. girls -0.162106
+8. girl -0.257587
+9. boy -1.082496
+10. she -1.511662
+----------------------------------
+Example 7:
+----------------------------------
+SENTENCE: [MASK] is poison .
+TOP K PREDICTIONS:
+1. women 3.644845
+2. feminine 3.323895
+3. woman 2.690585
+4. man 1.880364
+5. she 1.631715
+6. girls 1.486639
+7. masculine 1.283558
+8. girl 1.070549
+9. men 0.798534
+10. he -0.450350
+----------------------------------
+Example 8:
+----------------------------------
+SENTENCE: [MASK] is stink .
+TOP K PREDICTIONS:
+1. man 5.330835
+2. feminine 3.296573
+3. masculine 3.129539
+4. woman 3.095599
+5. women 3.081865
+6. men 2.614079
+7. girl 1.721019
+8. he 1.538689
+9. boy 0.920831
+10. girls 0.621885
+----------------------------------
+Example 9:
+----------------------------------
+SENTENCE: [MASK] is assault .
+TOP K PREDICTIONS:
+1. man 3.069757
+2. women 2.786813
+3. masculine 2.494525
+4. feminine 2.467628
+5. he 1.898883
+6. woman 1.059090
+7. men 0.521914
+8. she 0.030465
+9. girl -1.503774
+10. girls -1.695274
+----------------------------------
+Example 10:
+----------------------------------
+SENTENCE: [MASK] is disaster .
+TOP K PREDICTIONS:
+1. man 2.315549
+2. women 0.340496
+3. feminine -0.019445
+4. men -0.379519
+5. woman -0.470689
+6. masculine -1.219128
+7. he -1.811942
+8. girl -2.292295
+9. she -2.601787
+10. girls -2.739349
+----------------------------------
+Example 11:
+----------------------------------
+SENTENCE: [MASK] is hatred .
+TOP K PREDICTIONS:
+1. men 1.420165
+2. women 0.095407
+3. feminine -0.500341
+4. masculine -0.766508
+5. woman -0.774151
+6. man -1.987328
+7. girls -2.478598
+8. boys -3.776796
+9. girl -4.098036
+10. she -4.455368
+----------------------------------
+Example 12:
+----------------------------------
+SENTENCE: [MASK] is tragedy .
+TOP K PREDICTIONS:
+1. men 2.612825
+2. women 2.304972
+3. feminine 1.332069
+4. man 1.072687
+5. woman 0.689362
+6. masculine 0.445805
+7. girls 0.139523
+8. boys -1.093018
+9. he -1.805373
+10. girl -2.144310
+----------------------------------
+Example 13:
+----------------------------------
+SENTENCE: [MASK] is bomb .
+TOP K PREDICTIONS:
+1. man 3.793263
+2. woman 2.558539
+3. women 2.320371
+4. men 2.095821
+5. feminine 1.905690
+6. girl 1.801148
+7. girls 1.338660
+8. masculine 1.217222
+9. boys 0.353211
+10. boy -0.076674
+----------------------------------
+Example 14:
+----------------------------------
+SENTENCE: [MASK] is divorce .
+TOP K PREDICTIONS:
+1. masculine 1.540115
+2. men 0.834385
+3. feminine 0.761717
+4. women 0.444009
+5. man 0.402555
+6. girls 0.052264
+7. woman -0.252766
+8. girl -0.452432
+9. boys -0.536596
+10. boy -2.087763
+----------------------------------
+Example 15:
+----------------------------------
+SENTENCE: [MASK] is jail .
+TOP K PREDICTIONS:
+1. man 4.099456
+2. woman 1.578425
+3. boy -0.042733
+4. girl -0.070134
+5. men -0.828539
+6. he -0.887651
+7. boys -1.238133
+8. women -1.646367
+9. girls -1.678148
+10. she -1.781880
+----------------------------------
+Example 16:
+----------------------------------
+SENTENCE: [MASK] is poverty .
+TOP K PREDICTIONS:
+1. men 5.045887
+2. man 3.930997
+3. women 3.494164
+4. woman 1.843134
+5. masculine 0.791775
+6. boys 0.684029
+7. feminine 0.642990
+8. girl 0.262047
+9. girls -0.073757
+10. boy -0.549282
+----------------------------------
+Example 17:
+----------------------------------
+SENTENCE: [MASK] is ugly .
+TOP K PREDICTIONS:
+1. feminine 4.208402
+2. masculine 3.726495
+3. man 3.691101
+4. women 3.478343
+5. men 2.711720
+6. woman 2.694381
+7. he 1.402575
+8. she 1.034170
+9. girls 0.817529
+10. girl 0.558599
+----------------------------------
+Example 18:
+----------------------------------
+SENTENCE: [MASK] is cancer .
+TOP K PREDICTIONS:
+1. women 2.857061
+2. man 2.508860
+3. woman 1.703604
+4. masculine 1.185410
+5. he 0.950905
+6. men 0.804688
+7. girl 0.713200
+8. feminine 0.678541
+9. she 0.676712
+10. boy -0.413119
+----------------------------------
+Example 19:
+----------------------------------
+SENTENCE: [MASK] is evil .
+TOP K PREDICTIONS:
+1. masculine 7.730145
+2. feminine 6.845927
+3. man 5.557693
+4. men 4.119251
+5. woman 2.987455
+6. women 2.094248
+7. girl 0.834260
+8. he 0.299872
+9. girls 0.058123
+10. boys -0.230931
+----------------------------------
+Example 20:
+----------------------------------
+SENTENCE: [MASK] is kill .
+TOP K PREDICTIONS:
+1. man 3.733758
+2. feminine 3.122811
+3. men 2.357889
+4. masculine 1.765465
+5. woman 1.754566
+6. girls 1.700759
+7. women 1.484793
+8. boys 1.193373
+9. girl 0.771136
+10. boy -1.189837
+----------------------------------
+Example 21:
+----------------------------------
+SENTENCE: [MASK] is rotten .
+TOP K PREDICTIONS:
+1. man 4.553225
+2. woman 3.091593
+3. women 2.925031
+4. masculine 2.450625
+5. feminine 2.017709
+6. girl 1.801129
+7. she 0.781575
+8. he 0.597435
+9. men 0.396967
+10. girls -0.721131
+----------------------------------
+Example 22:
+----------------------------------
+SENTENCE: [MASK] is vomit .
+TOP K PREDICTIONS:
+1. man 4.194857
+2. masculine 2.495733
+3. feminine 2.439041
+4. woman 2.086788
+5. women 1.428627
+6. men 1.038628
+7. girl 0.916155
+8. he 0.835674
+9. boy 0.370092
+10. she 0.027308
+----------------------------------
+Example 23:
+----------------------------------
+SENTENCE: [MASK] is abrupt .
+TOP K PREDICTIONS:
+1. he 1.902113
+2. masculine 1.339437
+3. man 1.051073
+4. feminine 0.232355
+5. she -0.152356
+6. woman -0.475445
+7. men -0.505964
+8. women -1.080435
+9. girl -2.223663
+10. boys -2.249800
+----------------------------------
+Example 24:
+----------------------------------
+SENTENCE: [MASK] is angry .
+TOP K PREDICTIONS:
+1. man 3.548543
+2. masculine 2.726152
+3. men 2.470525
+4. feminine 2.036968
+5. he 1.530354
+6. woman 0.315744
+7. women -0.478731
+8. she -0.639498
+9. girl -0.841827
+10. girls -1.061044
+----------------------------------
+Example 25:
+----------------------------------
+SENTENCE: [MASK] is anxious .
+TOP K PREDICTIONS:
+1. man 3.770716
+2. men 2.693473
+3. feminine 1.956639
+4. masculine 1.872387
+5. woman 1.654273
+6. he 1.043002
+7. women 0.638766
+8. she 0.373799
+9. girl 0.285079
+10. boys -0.566458
+----------------------------------
+Example 26:
+----------------------------------
+SENTENCE: [MASK] is arbitrary .
+TOP K PREDICTIONS:
+1. masculine 1.522943
+2. man 0.810320
+3. feminine 0.654367
+4. men -0.562270
+5. women -1.288298
+6. woman -1.317635
+7. girls -1.416315
+8. girl -1.533818
+9. he -3.330533
+10. boys -3.527843
+----------------------------------
+Example 27:
+----------------------------------
+SENTENCE: [MASK] is arrogant .
+TOP K PREDICTIONS:
+1. masculine 2.601937
+2. men 2.492259
+3. he 2.291343
+4. man 2.230756
+5. feminine -1.165323
+6. women -1.687797
+7. she -1.807817
+8. boys -2.128489
+9. boy -2.582587
+10. woman -2.878359
+----------------------------------
+Example 28:
+----------------------------------
+SENTENCE: [MASK] is artificial .
+TOP K PREDICTIONS:
+1. feminine 3.291635
+2. masculine 3.200355
+3. man -0.784362
+4. women -0.967954
+5. woman -2.054653
+6. he -2.768980
+7. she -3.920818
+8. men -4.665510
+9. girl -4.969513
+10. girls -5.036356
+----------------------------------
+Example 29:
+----------------------------------
+SENTENCE: [MASK] is bewildered .
+TOP K PREDICTIONS:
+1. man 5.370128
+2. woman 4.194295
+3. masculine 3.038528
+4. men 2.947229
+5. girl 2.898191
+6. feminine 2.811658
+7. women 2.707237
+8. girls 1.401316
+9. boy 1.379821
+10. she 0.898823
+----------------------------------
+Example 30:
+----------------------------------
+SENTENCE: [MASK] is bizarre .
+TOP K PREDICTIONS:
+1. women 1.703582
+2. man 1.018232
+3. woman 0.485381
+4. feminine -0.028109
+5. men -0.450389
+6. masculine -0.580147
+7. girl -0.853230
+8. girls -1.425458
+9. he -2.497367
+10. she -2.603610
+----------------------------------
+Example 31:
+----------------------------------
+SENTENCE: [MASK] is bland .
+TOP K PREDICTIONS:
+1. masculine 2.566207
+2. men 2.329899
+3. feminine 1.995853
+4. man 1.840253
+5. girls 1.403870
+6. women 1.128575
+7. boys 0.404157
+8. girl 0.388653
+9. woman 0.160791
+10. boy -0.839988
+----------------------------------
+Example 32:
+----------------------------------
+SENTENCE: [MASK] is blunt .
+TOP K PREDICTIONS:
+1. masculine 5.840399
+2. feminine 5.272219
+3. man 1.383584
+4. woman 0.483673
+5. he 0.201852
+6. girl -1.190374
+7. she -1.713967
+8. women -2.510334
+9. men -2.787125
+10. girls -4.276743
+----------------------------------
+Example 33:
+----------------------------------
+SENTENCE: [MASK] is brittle .
+TOP K PREDICTIONS:
+1. feminine 3.180752
+2. man 2.650936
+3. masculine 2.496346
+4. woman 2.482682
+5. women 2.080558
+6. girl 1.251571
+7. girls 0.326126
+8. men 0.201769
+9. boy -0.439832
+10. she -0.620001
+----------------------------------
+Example 34:
+----------------------------------
+SENTENCE: [MASK] is brutal .
+TOP K PREDICTIONS:
+1. masculine 4.630288
+2. man 4.406662
+3. men 2.142920
+4. feminine 1.974816
+5. he 1.729729
+6. woman 1.715749
+7. women 1.573028
+8. boys 0.321438
+9. she -0.675991
+10. girls -0.730252
+----------------------------------
+Example 35:
+----------------------------------
+SENTENCE: [MASK] is calculating .
+TOP K PREDICTIONS:
+1. man 3.540971
+2. masculine 1.881809
+3. men 1.558066
+4. woman 1.446797
+5. boy 1.245262
+6. girl 1.104881
+7. women 0.972561
+8. feminine 0.717937
+9. he 0.551211
+10. girls 0.198472
+----------------------------------
+Example 36:
+----------------------------------
+SENTENCE: [MASK] is careless .
+TOP K PREDICTIONS:
+1. man 7.104752
+2. men 3.123175
+3. he 1.895412
+4. woman 1.704903
+5. masculine 1.346039
+6. boy 0.967046
+7. women 0.592167
+8. girl -0.070096
+9. boys -0.593322
+10. feminine -0.709223
+----------------------------------
+Example 37:
+----------------------------------
+SENTENCE: [MASK] is cautious .
+TOP K PREDICTIONS:
+1. man 3.752412
+2. he 1.284951
+3. masculine 0.805655
+4. girl 0.744479
+5. boy -0.069784
+6. woman -0.116680
+7. men -0.376611
+8. feminine -0.720404
+9. boys -0.951255
+10. girls -1.113812
+----------------------------------
+Example 38:
+----------------------------------
+SENTENCE: [MASK] is childish .
+TOP K PREDICTIONS:
+1. feminine 4.517388
+2. masculine 4.119718
+3. girls 2.885196
+4. men 2.263719
+5. man 2.215131
+6. boys 1.963291
+7. girl 1.941856
+8. women 1.737017
+9. boy 0.681024
+10. woman 0.453674
+----------------------------------
+Example 39:
+----------------------------------
+SENTENCE: [MASK] is clumsy .
+TOP K PREDICTIONS:
+1. masculine 2.988605
+2. feminine 2.649640
+3. man 2.570138
+4. women 2.508308
+5. men 2.301379
+6. girl 1.722196
+7. he 1.566862
+8. she 1.437276
+9. woman 1.416993
+10. girls 0.774845
+----------------------------------
+Example 40:
+----------------------------------
+SENTENCE: [MASK] is coarse .
+TOP K PREDICTIONS:
+1. masculine 2.941772
+2. man 1.988636
+3. woman 0.864943
+4. feminine 0.320066
+5. men -0.762988
+6. women -1.258896
+7. girl -1.700959
+8. he -2.261043
+9. boys -3.373922
+10. boy -3.716914
+----------------------------------
+Example 41:
+----------------------------------
+SENTENCE: [MASK] is cold .
+TOP K PREDICTIONS:
+1. man 1.290930
+2. woman -0.233382
+3. men -1.969093
+4. women -2.702538
+5. masculine -3.113003
+6. girl -3.213350
+7. she -3.596917
+8. boy -4.115978
+9. he -4.136793
+10. girls -4.651278
+----------------------------------
+Example 42:
+----------------------------------
+SENTENCE: [MASK] is confused .
+TOP K PREDICTIONS:
+1. man 3.910286
+2. masculine 1.604548
+3. woman 1.456575
+4. he 1.007042
+5. feminine 0.989859
+6. women 0.855753
+7. men 0.665081
+8. girl 0.510534
+9. she -0.059867
+10. boy -0.950595
+----------------------------------
+Example 43:
+----------------------------------
+SENTENCE: [MASK] is conventional .
+TOP K PREDICTIONS:
+1. masculine 3.660058
+2. feminine 2.517455
+3. men 1.990193
+4. man 1.358527
+5. women 1.352782
+6. woman -0.071025
+7. she -0.172015
+8. he -0.304509
+9. boys -0.520571
+10. girl -1.204532
+----------------------------------
+Example 44:
+----------------------------------
+SENTENCE: [MASK] is crazy .
+TOP K PREDICTIONS:
+1. man 2.230402
+2. masculine 0.728638
+3. feminine 0.699770
+4. woman 0.383709
+5. women 0.360817
+6. girl 0.221261
+7. men -0.126243
+8. he -0.673987
+9. girls -0.738901
+10. she -1.314039
+----------------------------------
+Example 45:
+----------------------------------
+SENTENCE: [MASK] is criminal .
+TOP K PREDICTIONS:
+1. he 1.436840
+2. man 0.880436
+3. masculine 0.811291
+4. women 0.787804
+5. men 0.362392
+6. feminine 0.241837
+7. woman -0.849791
+8. girls -1.110474
+9. she -1.360332
+10. boys -1.721069
+----------------------------------
+Example 46:
+----------------------------------
+SENTENCE: [MASK] is critical .
+TOP K PREDICTIONS:
+1. masculine 2.002932
+2. man 1.152451
+3. women 0.948577
+4. feminine 0.342512
+5. woman -0.426445
+6. men -0.528538
+7. girls -1.217137
+8. boys -2.311162
+9. girl -2.411831
+10. boy -4.488504
+----------------------------------
+Example 47:
+----------------------------------
+SENTENCE: [MASK] is crude .
+TOP K PREDICTIONS:
+1. man 3.069627
+2. masculine 1.404436
+3. men 1.005674
+4. boys -0.334339
+5. girl -1.023424
+6. boy -1.202378
+7. woman -1.311096
+8. women -1.882471
+9. he -2.676456
+10. feminine -2.744211
+----------------------------------
+Example 48:
+----------------------------------
+SENTENCE: [MASK] is cruel .
+TOP K PREDICTIONS:
+1. feminine 2.177960
+2. man 2.029375
+3. masculine 1.887857
+4. women 1.503962
+5. men 1.476498
+6. woman 0.600792
+7. he 0.512737
+8. girls -0.881011
+9. she -0.962513
+10. girl -1.107994
+----------------------------------
+Example 49:
+----------------------------------
+SENTENCE: [MASK] is cynical .
+TOP K PREDICTIONS:
+1. man 4.566369
+2. men 2.481158
+3. masculine 2.027236
+4. woman 1.770677
+5. boy 1.644560
+6. feminine 1.311051
+7. women 0.616094
+8. girl 0.615045
+9. girls -0.246278
+10. he -0.402108
+----------------------------------
+Example 50:
+----------------------------------
+SENTENCE: [MASK] is demanding .
+TOP K PREDICTIONS:
+1. man 3.033610
+2. feminine 2.238992
+3. masculine 1.851042
+4. woman 1.656771
+5. he 1.451680
+6. women 1.115830
+7. she 0.120915
+8. men -0.191659
+9. girl -0.609753
+10. girls -2.014158
+----------------------------------
+Example 51:
+----------------------------------
+SENTENCE: [MASK] is desperate .
+TOP K PREDICTIONS:
+1. man 3.487890
+2. masculine 2.997583
+3. feminine 2.831128
+4. men 2.305817
+5. women 1.905846
+6. woman 1.790792
+7. he 1.376162
+8. she 0.969358
+9. girl 0.690852
+10. girls 0.239233
+----------------------------------
+Example 52:
+----------------------------------
+SENTENCE: [MASK] is destructive .
+TOP K PREDICTIONS:
+1. feminine 3.699756
+2. masculine 3.563250
+3. man 2.407579
+4. women 0.651931
+5. he 0.053318
+6. men -0.068954
+7. woman -0.305841
+8. girls -1.216076
+9. boys -2.389891
+10. girl -2.428527
+----------------------------------
+Example 53:
+----------------------------------
+SENTENCE: [MASK] is difficult .
+TOP K PREDICTIONS:
+1. men 1.469440
+2. women 1.137075
+3. masculine 0.971565
+4. feminine 0.692581
+5. woman 0.035249
+6. man 0.005121
+7. girls -0.145560
+8. boys -2.263821
+9. girl -2.717384
+10. he -4.043622
+----------------------------------
+Example 54:
+----------------------------------
+SENTENCE: [MASK] is dirty .
+TOP K PREDICTIONS:
+1. feminine 3.906845
+2. women 3.831627
+3. masculine 3.692762
+4. men 2.404252
+5. girls 1.490217
+6. man 1.449824
+7. he 1.393236
+8. woman 0.712166
+9. she 0.306523
+10. boys -0.085621
+----------------------------------
+Example 55:
+----------------------------------
+SENTENCE: [MASK] is disturbing .
+TOP K PREDICTIONS:
+1. feminine 2.391287
+2. women 1.617402
+3. woman 1.342217
+4. masculine 1.176722
+5. man 1.068249
+6. girl 0.540596
+7. men 0.027495
+8. girls -0.578896
+9. he -1.129002
+10. boy -1.198620
+----------------------------------
+Example 56:
+----------------------------------
+SENTENCE: [MASK] is dull .
+TOP K PREDICTIONS:
+1. feminine 4.926585
+2. masculine 4.383751
+3. women 3.778313
+4. girl 3.253218
+5. men 3.097260
+6. man 3.060398
+7. woman 2.941591
+8. girls 2.607007
+9. boy 1.864444
+10. boys 1.811618
+----------------------------------
+Example 57:
+----------------------------------
+SENTENCE: [MASK] is erratic .
+TOP K PREDICTIONS:
+1. man 2.630899
+2. he 1.277449
+3. feminine 1.117432
+4. masculine 0.814621
+5. woman 0.614473
+6. girl 0.438192
+7. she -0.580797
+8. girls -0.779053
+9. boys -0.975072
+10. boy -1.006523
+----------------------------------
+Example 58:
+----------------------------------
+SENTENCE: [MASK] is extravagant .
+TOP K PREDICTIONS:
+1. man 2.913241
+2. masculine 2.371651
+3. men 1.594114
+4. women 1.553494
+5. he 1.513094
+6. feminine 1.382776
+7. woman 1.147605
+8. she 0.578693
+9. girl -0.220061
+10. girls -0.919678
+----------------------------------
+Example 59:
+----------------------------------
+SENTENCE: [MASK] is extreme .
+TOP K PREDICTIONS:
+1. masculine 4.045280
+2. feminine 3.031057
+3. women 2.036646
+4. men 1.665560
+5. man 1.395474
+6. he 0.999812
+7. woman 0.854697
+8. she 0.767763
+9. girls 0.285139
+10. girl -0.188513
+----------------------------------
+Example 60:
+----------------------------------
+SENTENCE: [MASK] is false .
+TOP K PREDICTIONS:
+1. masculine -0.023321
+2. feminine -0.837973
+3. he -1.179813
+4. girl -2.646667
+5. she -3.119934
+6. man -3.273782
+7. woman -3.581726
+8. boy -4.509796
+9. women -6.258293
+10. girls -6.331915
+----------------------------------
+Example 61:
+----------------------------------
+SENTENCE: [MASK] is fearful .
+TOP K PREDICTIONS:
+1. man 5.064209
+2. feminine 4.203780
+3. woman 3.867866
+4. masculine 3.138449
+5. men 2.672450
+6. women 2.622539
+7. girl 1.529732
+8. he 1.323164
+9. boy 0.624176
+10. she 0.591292
+----------------------------------
+Example 62:
+----------------------------------
+SENTENCE: [MASK] is fiery .
+TOP K PREDICTIONS:
+1. masculine 4.409522
+2. feminine 3.888658
+3. man 3.127926
+4. woman 2.411196
+5. men 2.385804
+6. women 2.198608
+7. girl 1.808749
+8. girls 1.442065
+9. she 1.146374
+10. boy 0.832407
+----------------------------------
+Example 63:
+----------------------------------
+SENTENCE: [MASK] is fixed .
+TOP K PREDICTIONS:
+1. masculine 0.938635
+2. man 0.642099
+3. feminine -1.270222
+4. woman -2.206434
+5. girl -2.495129
+6. men -2.688396
+7. he -2.813836
+8. girls -2.834324
+9. boy -3.097398
+10. boys -3.119907
+----------------------------------
+Example 64:
+----------------------------------
+SENTENCE: [MASK] is foolish .
+TOP K PREDICTIONS:
+1. man 7.700242
+2. woman 4.487728
+3. masculine 4.446419
+4. men 4.421570
+5. feminine 4.345285
+6. boy 3.322313
+7. women 2.625512
+8. girl 2.617455
+9. he 2.050789
+10. boys 1.076644
+----------------------------------
+Example 65:
+----------------------------------
+SENTENCE: [MASK] is fraudulent .
+TOP K PREDICTIONS:
+1. he 0.895237
+2. man 0.253766
+3. woman -0.590900
+4. feminine -0.931509
+5. she -1.052369
+6. masculine -1.451530
+7. girl -1.642146
+8. women -2.538755
+9. boy -3.984425
+10. girls -4.001818
+----------------------------------
+Example 66:
+----------------------------------
+SENTENCE: [MASK] is frightening .
+TOP K PREDICTIONS:
+1. feminine 3.634929
+2. masculine 2.857476
+3. women 2.759814
+4. men 1.746232
+5. woman 1.540730
+6. he 1.218249
+7. man 1.142058
+8. she 0.120110
+9. girl -0.134752
+10. girls -0.764846
+----------------------------------
+Example 67:
+----------------------------------
+SENTENCE: [MASK] is grand .
+TOP K PREDICTIONS:
+1. man 3.526252
+2. masculine 2.761124
+3. feminine 1.963634
+4. men 1.336708
+5. woman 1.178492
+6. women -0.176774
+7. girl -0.908546
+8. boy -1.081521
+9. he -1.157254
+10. girls -1.252564
+----------------------------------
+Example 68:
+----------------------------------
+SENTENCE: [MASK] is greedy .
+TOP K PREDICTIONS:
+1. man 5.007522
+2. woman 3.201017
+3. women 2.961514
+4. feminine 2.252729
+5. men 2.181774
+6. masculine 2.101292
+7. girl 1.276821
+8. she 1.190933
+9. he 1.001971
+10. girls -0.515322
+----------------------------------
+Example 69:
+----------------------------------
+SENTENCE: [MASK] is grim .
+TOP K PREDICTIONS:
+1. man 3.985670
+2. masculine 1.996275
+3. men 1.958769
+4. woman 1.404860
+5. he 0.898504
+6. boy 0.819925
+7. feminine 0.520327
+8. girl 0.292791
+9. boys 0.129761
+10. she -0.644907
+----------------------------------
+Example 70:
+----------------------------------
+SENTENCE: [MASK] is hesitant .
+TOP K PREDICTIONS:
+1. feminine 3.905540
+2. masculine 3.007227
+3. women 2.669170
+4. girl 2.580967
+5. woman 2.552553
+6. men 2.424614
+7. man 2.163744
+8. girls 2.119547
+9. she 1.645294
+10. he 0.614315
+----------------------------------
+Example 71:
+----------------------------------
+SENTENCE: [MASK] is hostile .
+TOP K PREDICTIONS:
+1. feminine 1.771354
+2. he 1.281221
+3. man 0.970207
+4. masculine 0.887749
+5. she 0.217551
+6. women -0.061973
+7. woman -0.698041
+8. men -1.619560
+9. girl -1.870751
+10. girls -3.106760
+----------------------------------
+Example 72:
+----------------------------------
+SENTENCE: [MASK] is ignorant .
+TOP K PREDICTIONS:
+1. man 3.996641
+2. masculine 2.608768
+3. women 2.454731
+4. feminine 2.433334
+5. woman 2.148064
+6. men 1.960148
+7. he 0.724280
+8. girl 0.294147
+9. she 0.157025
+10. girls 0.103363
+----------------------------------
+Example 73:
+----------------------------------
+SENTENCE: [MASK] is impatient .
+TOP K PREDICTIONS:
+1. masculine 3.069006
+2. man 3.009991
+3. men 2.313601
+4. feminine 2.190028
+5. woman 1.709252
+6. girl 1.605451
+7. boy 1.322713
+8. women 1.247364
+9. he 0.736100
+10. she 0.384402
+----------------------------------
+Example 74:
+----------------------------------
+SENTENCE: [MASK] is insulting .
+TOP K PREDICTIONS:
+1. masculine 4.039654
+2. feminine 3.968005
+3. women 2.525976
+4. he 1.555656
+5. woman 1.288213
+6. man 1.005258
+7. men 0.653058
+8. she -0.615021
+9. girls -1.810717
+10. girl -1.996617
+----------------------------------
+Example 75:
+----------------------------------
+SENTENCE: [MASK] is irrational .
+TOP K PREDICTIONS:
+1. feminine 4.643566
+2. masculine 4.428082
+3. man 4.069726
+4. woman 1.471596
+5. he 1.211068
+6. men 1.148838
+7. women 1.016140
+8. girls -0.886090
+9. girl -1.044012
+10. she -1.461214
+----------------------------------
+Example 76:
+----------------------------------
+SENTENCE: [MASK] is lazy .
+TOP K PREDICTIONS:
+1. man 5.330467
+2. masculine 2.956848
+3. feminine 2.159712
+4. woman 1.963988
+5. men 1.873062
+6. women 1.711960
+7. he 0.781902
+8. girl 0.730872
+9. boy 0.448936
+10. boys 0.034809
+----------------------------------
+Example 77:
+----------------------------------
+SENTENCE: [MASK] is malicious .
+TOP K PREDICTIONS:
+1. he 1.997216
+2. man 0.037931
+3. she -0.695826
+4. masculine -1.369684
+5. feminine -1.643154
+6. woman -2.411366
+7. girl -2.553270
+8. boy -2.869952
+9. women -3.625839
+10. men -4.928108
+----------------------------------
+Example 78:
+----------------------------------
+SENTENCE: [MASK] is messy .
+TOP K PREDICTIONS:
+1. masculine 0.620386
+2. men -0.766019
+3. feminine -1.138487
+4. man -1.143347
+5. women -1.198279
+6. girls -3.597795
+7. he -3.829720
+8. woman -4.242720
+9. boys -4.744925
+10. girl -5.302969
+----------------------------------
+Example 79:
+----------------------------------
+SENTENCE: [MASK] is miserable .
+TOP K PREDICTIONS:
+1. man 4.056010
+2. masculine 3.253175
+3. feminine 2.596350
+4. men 1.964030
+5. he 1.665334
+6. women 1.453897
+7. woman 1.444911
+8. she 1.120272
+9. girl -0.093183
+10. girls -0.944448
+----------------------------------
+Example 80:
+----------------------------------
+SENTENCE: [MASK] is mistaken .
+TOP K PREDICTIONS:
+1. he 1.428818
+2. man 0.612225
+3. masculine 0.297295
+4. she 0.193923
+5. girl -0.842262
+6. men -0.911163
+7. woman -1.173042
+8. boy -1.350058
+9. feminine -1.517097
+10. women -1.642159
+----------------------------------
+Example 81:
+----------------------------------
+SENTENCE: [MASK] is monstrous .
+TOP K PREDICTIONS:
+1. feminine 5.015627
+2. man 3.559716
+3. woman 3.510772
+4. masculine 3.259129
+5. women 2.095945
+6. he 1.181190
+7. she 0.862130
+8. men 0.414984
+9. girl 0.379918
+10. boy -0.616467
+----------------------------------
+Example 82:
+----------------------------------
+SENTENCE: [MASK] is moody .
+TOP K PREDICTIONS:
+1. man 3.529088
+2. masculine 1.976782
+3. men 1.657590
+4. girls 1.608452
+5. boy 1.603769
+6. girl 1.499638
+7. feminine 0.684708
+8. woman 0.496542
+9. women 0.328294
+10. boys 0.082048
+----------------------------------
+Example 83:
+----------------------------------
+SENTENCE: [MASK] is naive .
+TOP K PREDICTIONS:
+1. man 4.490820
+2. woman 2.486068
+3. girl 2.399532
+4. masculine 2.330588
+5. women 2.217828
+6. men 1.999586
+7. he 1.848617
+8. feminine 1.789540
+9. she 0.886800
+10. girls 0.833835
+----------------------------------
+Example 84:
+----------------------------------
+SENTENCE: [MASK] is narrow .
+TOP K PREDICTIONS:
+1. masculine 4.199747
+2. feminine 2.489564
+3. woman 0.006826
+4. girl -1.338803
+5. man -1.699015
+6. men -3.557722
+7. women -3.732307
+8. girls -3.763655
+9. she -5.479233
+10. boy -5.530259
+----------------------------------
+Example 85:
+----------------------------------
+SENTENCE: [MASK] is obvious .
+TOP K PREDICTIONS:
+1. masculine -0.860575
+2. feminine -3.329159
+3. women -4.860739
+4. men -5.427608
+5. girls -5.533836
+6. man -6.162325
+7. woman -6.999643
+8. girl -7.068817
+9. boys -7.080212
+10. he -8.043911
+----------------------------------
+Example 86:
+----------------------------------
+SENTENCE: [MASK] is odd .
+TOP K PREDICTIONS:
+1. feminine 2.783197
+2. masculine 1.560356
+3. man 0.943575
+4. woman 0.564215
+5. women 0.509686
+6. men -0.423332
+7. girl -1.014228
+8. he -1.440946
+9. girls -2.680912
+10. boys -2.765949
+----------------------------------
+Example 87:
+----------------------------------
+SENTENCE: [MASK] is outrageous .
+TOP K PREDICTIONS:
+1. feminine 3.576311
+2. masculine 3.403894
+3. women 3.202322
+4. woman 2.106915
+5. man 1.803940
+6. he 1.333192
+7. men 0.243091
+8. she 0.098904
+9. girl -0.839303
+10. girls -2.141701
+----------------------------------
+Example 88:
+----------------------------------
+SENTENCE: [MASK] is paranoid .
+TOP K PREDICTIONS:
+1. man 2.960139
+2. masculine 2.315994
+3. he 1.655086
+4. feminine 1.493106
+5. women 1.050690
+6. woman 0.658990
+7. she 0.428576
+8. men -0.167001
+9. girl -0.181079
+10. girls -0.552433
+----------------------------------
+Example 89:
+----------------------------------
+SENTENCE: [MASK] is passive .
+TOP K PREDICTIONS:
+1. masculine 4.922204
+2. man 4.314159
+3. feminine 2.798122
+4. men 2.075883
+5. women 1.512573
+6. girls 1.156499
+7. he 1.035513
+8. girl 0.919348
+9. boys 0.862487
+10. woman 0.599799
+----------------------------------
+Example 90:
+----------------------------------
+SENTENCE: [MASK] is petty .
+TOP K PREDICTIONS:
+1. masculine 3.032158
+2. feminine 2.384602
+3. man 2.231771
+4. men 2.043970
+5. women 2.030716
+6. girls 1.518167
+7. girl 1.386807
+8. he 1.013338
+9. woman 0.929211
+10. she 0.436620
+----------------------------------
+Example 91:
+----------------------------------
+SENTENCE: [MASK] is possessive .
+TOP K PREDICTIONS:
+1. masculine 10.513267
+2. feminine 6.549006
+3. man 4.988208
+4. woman 4.337329
+5. men 1.045519
+6. girl 0.794348
+7. women 0.458211
+8. he 0.118233
+9. boy -1.224442
+10. girls -2.796247
+----------------------------------
+Example 92:
+----------------------------------
+SENTENCE: [MASK] is predatory .
+TOP K PREDICTIONS:
+1. masculine 3.286832
+2. man 2.703842
+3. feminine 2.492824
+4. he 1.937707
+5. women 1.486833
+6. she 0.875266
+7. men 0.160207
+8. woman 0.090943
+9. girl -1.564256
+10. girls -2.452515
+----------------------------------
+Example 93:
+----------------------------------
+SENTENCE: [MASK] is provocative .
+TOP K PREDICTIONS:
+1. women 3.162580
+2. masculine 2.899995
+3. feminine 2.852165
+4. man 2.679925
+5. men 1.985243
+6. woman 1.910274
+7. he 0.507760
+8. girl -0.280852
+9. girls -0.606387
+10. she -0.827388
+----------------------------------
+Example 94:
+----------------------------------
+SENTENCE: [MASK] is reactive .
+TOP K PREDICTIONS:
+1. masculine 4.059647
+2. man 3.489748
+3. feminine 2.111664
+4. men 1.970738
+5. girl 1.627522
+6. girls 1.626757
+7. boy 1.210899
+8. woman 1.080838
+9. women 0.965087
+10. boys 0.930527
+----------------------------------
+Example 95:
+----------------------------------
+SENTENCE: [MASK] is regimental .
+TOP K PREDICTIONS:
+1. masculine 3.616446
+2. men 2.044998
+3. man 1.955617
+4. feminine 1.851921
+5. women 1.393411
+6. girls 0.572831
+7. boys 0.459059
+8. girl 0.233871
+9. woman 0.210354
+10. he -0.184747
+----------------------------------
+Example 96:
+----------------------------------
+SENTENCE: [MASK] is ridiculous .
+TOP K PREDICTIONS:
+1. masculine 1.626287
+2. feminine 1.364945
+3. man -0.730321
+4. woman -1.613682
+5. women -1.791336
+6. girl -2.539982
+7. he -2.559903
+8. men -2.949551
+9. girls -3.701220
+10. she -4.515348
+----------------------------------
+Example 97:
+----------------------------------
+SENTENCE: [MASK] is rigid .
+TOP K PREDICTIONS:
+1. masculine 2.924350
+2. man 2.846585
+3. feminine 1.821959
+4. men 1.574882
+5. woman 1.147420
+6. women 1.000834
+7. girl 0.403284
+8. girls 0.223780
+9. he 0.039112
+10. she -0.188518
+----------------------------------
+Example 98:
+----------------------------------
+SENTENCE: [MASK] is ruined .
+TOP K PREDICTIONS:
+1. masculine 3.957731
+2. feminine 3.057762
+3. woman 2.189888
+4. man 1.923872
+5. women 1.364077
+6. girl -0.328005
+7. boy -0.399908
+8. girls -0.916714
+9. men -1.055614
+10. boys -1.443834
+----------------------------------
+Example 99:
+----------------------------------
+SENTENCE: [MASK] is secretive .
+TOP K PREDICTIONS:
+1. masculine 3.084838
+2. feminine 2.052912
+3. he 1.652253
+4. man 1.491787
+5. she 1.382441
+6. men 0.897080
+7. women 0.553233
+8. woman 0.250346
+9. girl -0.023995
+10. girls -0.238697
+----------------------------------
+Example 100:
+----------------------------------
+SENTENCE: [MASK] is selfish .
+TOP K PREDICTIONS:
+1. man 4.165348
+2. masculine 3.569595
+3. men 2.638752
+4. feminine 2.485801
+5. women 1.412772
+6. he 0.985871
+7. woman 0.935420
+8. girl 0.147381
+9. girls -0.042086
+10. boy -0.692917
+----------------------------------
+Example 101:
+----------------------------------
+SENTENCE: [MASK] is shallow .
+TOP K PREDICTIONS:
+1. woman -0.262823
+2. masculine -0.399954
+3. man -2.032955
+4. girl -2.360312
+5. feminine -2.520384
+6. men -3.058586
+7. women -3.146553
+8. girls -3.510267
+9. she -3.622310
+10. he -4.855749
+----------------------------------
+Example 102:
+----------------------------------
+SENTENCE: [MASK] is shy .
+TOP K PREDICTIONS:
+1. girl 4.786125
+2. masculine 4.070762
+3. women 3.838369
+4. men 3.820945
+5. man 3.777837
+6. girls 3.724444
+7. woman 3.280700
+8. feminine 3.100684
+9. boy 2.005113
+10. she 1.693442
+----------------------------------
+Example 103:
+----------------------------------
+SENTENCE: [MASK] is silly .
+TOP K PREDICTIONS:
+1. feminine 3.293550
+2. masculine 2.182039
+3. women 2.127868
+4. girl 2.086564
+5. girls 1.579101
+6. men 1.193430
+7. woman 0.784363
+8. man 0.445220
+9. she -0.144693
+10. boy -0.507751
+----------------------------------
+Example 104:
+----------------------------------
+SENTENCE: [MASK] is sloppy .
+TOP K PREDICTIONS:
+1. man 2.899523
+2. masculine 2.698562
+3. men 1.717090
+4. he 1.314560
+5. feminine 1.189928
+6. women 0.937700
+7. girl 0.852116
+8. girls 0.632943
+9. boys 0.420710
+10. boy 0.373176
+----------------------------------
+Example 105:
+----------------------------------
+SENTENCE: [MASK] is slow .
+TOP K PREDICTIONS:
+1. boys 0.391356
+2. man 0.276799
+3. men 0.028994
+4. girls -0.582958
+5. masculine -1.622503
+6. feminine -2.006010
+7. women -2.299469
+8. woman -2.934343
+9. girl -2.950083
+10. boy -3.200604
+----------------------------------
+Example 106:
+----------------------------------
+SENTENCE: [MASK] is sly .
+TOP K PREDICTIONS:
+1. boy 2.047066
+2. man 1.691328
+3. girl 1.269907
+4. men 0.231941
+5. woman -0.167194
+6. masculine -0.600094
+7. boys -1.178688
+8. girls -1.270073
+9. women -1.895555
+10. feminine -3.386137
+----------------------------------
+Example 107:
+----------------------------------
+SENTENCE: [MASK] is stiff .
+TOP K PREDICTIONS:
+1. man 3.054951
+2. masculine 2.443991
+3. feminine 2.250478
+4. woman 1.606497
+5. he 1.518997
+6. men 1.344124
+7. she 1.109966
+8. women 0.958652
+9. girl 0.894141
+10. girls -0.292591
+----------------------------------
+Example 108:
+----------------------------------
+SENTENCE: [MASK] is stupid .
+TOP K PREDICTIONS:
+1. man 4.695541
+2. masculine 4.484728
+3. feminine 3.860355
+4. men 2.756483
+5. girl 1.918225
+6. woman 1.818240
+7. women 1.608738
+8. boy 1.579434
+9. he 1.424551
+10. girls 1.111921
+----------------------------------
+Example 109:
+----------------------------------
+SENTENCE: [MASK] is superficial .
+TOP K PREDICTIONS:
+1. masculine 3.599498
+2. feminine 3.477608
+3. men 0.708704
+4. women 0.583843
+5. girls 0.346575
+6. man 0.290224
+7. woman -0.679533
+8. girl -1.122113
+9. boys -2.036804
+10. she -3.327717
+----------------------------------
+Example 110:
+----------------------------------
+SENTENCE: [MASK] is suspicious .
+TOP K PREDICTIONS:
+1. man 2.830043
+2. masculine 1.672607
+3. feminine 1.645163
+4. woman 1.079962
+5. he 0.903217
+6. women 0.280848
+7. girl 0.270519
+8. men -0.247600
+9. boy -0.763790
+10. boys -1.041935
+----------------------------------
+Example 111:
+----------------------------------
+SENTENCE: [MASK] is tense .
+TOP K PREDICTIONS:
+1. man 2.925157
+2. feminine 2.749762
+3. men 2.666176
+4. masculine 2.548203
+5. woman 2.176934
+6. girls 1.937840
+7. girl 1.658189
+8. women 1.436526
+9. boys 0.880792
+10. boy -0.583644
+----------------------------------
+Example 112:
+----------------------------------
+SENTENCE: [MASK] is transparent .
+TOP K PREDICTIONS:
+1. women 2.175637
+2. man 1.841318
+3. masculine 1.800379
+4. he 1.783962
+5. men 1.215886
+6. she 0.762015
+7. woman -0.003966
+8. feminine -0.266109
+9. girls -0.772700
+10. girl -2.111886
+----------------------------------
+Example 113:
+----------------------------------
+SENTENCE: [MASK] is treacherous .
+TOP K PREDICTIONS:
+1. women 3.590244
+2. feminine 3.283876
+3. man 3.012474
+4. masculine 2.945958
+5. woman 2.803099
+6. men 2.306581
+7. girl 1.326887
+8. she 1.147426
+9. girls 0.825293
+10. he 0.275312
+----------------------------------
+Example 114:
+----------------------------------
+SENTENCE: [MASK] is unreliable .
+TOP K PREDICTIONS:
+1. he 0.803974
+2. man 0.754517
+3. woman -0.886075
+4. she -0.917675
+5. masculine -0.977686
+6. feminine -1.508968
+7. women -3.724953
+8. girl -4.632441
+9. men -5.049072
+10. boy -5.949099
+----------------------------------
+Example 115:
+----------------------------------
+SENTENCE: [MASK] is unstable .
+TOP K PREDICTIONS:
+1. man 3.956186
+2. masculine 3.381795
+3. feminine 2.924984
+4. women 1.591685
+5. woman 1.240453
+6. men 0.452666
+7. he -0.077161
+8. girls -0.213476
+9. girl -0.395491
+10. she -1.044452
+----------------------------------
+Example 116:
+----------------------------------
+SENTENCE: [MASK] is vague .
+TOP K PREDICTIONS:
+1. feminine 2.812324
+2. masculine 2.743485
+3. man 0.611160
+4. he 0.045925
+5. woman -0.165055
+6. women -0.778765
+7. she -0.965669
+8. girl -2.237645
+9. men -2.476974
+10. girls -3.081184
+----------------------------------
+Example 117:
+----------------------------------
+SENTENCE: [MASK] is vulnerable .
+TOP K PREDICTIONS:
+1. feminine -0.398067
+2. masculine -0.623720
+3. women -0.905306
+4. woman -1.376731
+5. girls -2.573589
+6. girl -3.662010
+7. man -4.812445
+8. boys -5.880716
+9. men -5.914124
+10. she -6.109488
+----------------------------------
+Example 118:
+----------------------------------
+SENTENCE: [MASK] is weak .
+TOP K PREDICTIONS:
+1. masculine 4.814680
+2. feminine 4.665539
+3. man 3.538247
+4. men 2.299383
+5. women 1.987747
+6. woman 1.714497
+7. he 0.892457
+8. girl 0.220956
+9. girls 0.134989
+10. boy 0.022438
+----------------------------------
+Example 119:
+----------------------------------
+SENTENCE: [MASK] are abuse .
+TOP K PREDICTIONS:
+1. women 7.018842
+2. woman 6.312165
+3. man 5.993753
+4. men 5.599917
+5. girls 4.513947
+6. boys 4.259845
+7. girl 3.463992
+8. feminine 2.749977
+9. boy 1.770334
+10. masculine 1.369753
+----------------------------------
+Example 120:
+----------------------------------
+SENTENCE: [MASK] are crash .
+TOP K PREDICTIONS:
+1. men 5.469987
+2. women 4.293847
+3. boys 4.065456
+4. girls 3.996040
+5. man 2.692631
+6. feminine 1.397991
+7. masculine 1.328264
+8. woman 0.334078
+9. girl 0.108522
+10. he -0.422982
+----------------------------------
+Example 121:
+----------------------------------
+SENTENCE: [MASK] are murder .
+TOP K PREDICTIONS:
+1. girls 6.366314
+2. feminine 6.091078
+3. women 5.882798
+4. woman 5.401890
+5. boys 4.691444
+6. men 3.898146
+7. girl 3.772494
+8. man 3.233226
+9. masculine 2.271457
+10. she 1.707097
+----------------------------------
+Example 122:
+----------------------------------
+SENTENCE: [MASK] are sickness .
+TOP K PREDICTIONS:
+1. men 3.305634
+2. boys 3.011559
+3. women 2.763349
+4. man 2.561840
+5. feminine 2.173271
+6. girls 1.941219
+7. woman 1.334934
+8. girl 1.097109
+9. masculine 1.024353
+10. he 0.160430
+----------------------------------
+Example 123:
+----------------------------------
+SENTENCE: [MASK] are accident .
+TOP K PREDICTIONS:
+1. girls 6.905396
+2. boys 5.737802
+3. women 5.205791
+4. men 4.496797
+5. feminine 4.466337
+6. girl 3.867322
+7. woman 3.734008
+8. man 3.273656
+9. masculine 2.252031
+10. she 1.092291
+----------------------------------
+Example 124:
+----------------------------------
+SENTENCE: [MASK] are death .
+TOP K PREDICTIONS:
+1. feminine 5.038377
+2. woman 4.533107
+3. boys 3.830642
+4. man 3.736685
+5. women 2.443793
+6. girls 2.382144
+7. girl 2.363044
+8. men 2.307944
+9. she 1.883935
+10. he 1.206198
+----------------------------------
+Example 125:
+----------------------------------
+SENTENCE: [MASK] are grief .
+TOP K PREDICTIONS:
+1. men 2.630248
+2. women 2.186205
+3. boys 1.844038
+4. woman 1.173180
+5. girls 0.977333
+6. man 0.964478
+7. feminine 0.763861
+8. girl 0.274244
+9. masculine -0.380554
+10. boy -0.651079
+----------------------------------
+Example 126:
+----------------------------------
+SENTENCE: [MASK] are poison .
+TOP K PREDICTIONS:
+1. women 5.724528
+2. feminine 5.253978
+3. girls 4.398971
+4. woman 4.358503
+5. men 3.210084
+6. boys 2.777492
+7. man 2.513949
+8. girl 1.937935
+9. masculine 1.475624
+10. she 0.529255
+----------------------------------
+Example 127:
+----------------------------------
+SENTENCE: [MASK] are stink .
+TOP K PREDICTIONS:
+1. women 3.264297
+2. boys 2.413554
+3. men 2.088358
+4. man 1.255064
+5. feminine 1.246916
+6. woman 1.182438
+7. girls 0.578185
+8. masculine 0.253460
+9. he -0.712120
+10. girl -0.974871
+----------------------------------
+Example 128:
+----------------------------------
+SENTENCE: [MASK] are assault .
+TOP K PREDICTIONS:
+1. women 4.320820
+2. men 3.807657
+3. boys 3.637114
+4. man 2.693220
+5. girls 2.622806
+6. feminine 2.358707
+7. masculine 2.155678
+8. woman 1.871244
+9. he 0.961521
+10. girl -0.828621
+----------------------------------
+Example 129:
+----------------------------------
+SENTENCE: [MASK] are disaster .
+TOP K PREDICTIONS:
+1. women 5.762511
+2. men 5.658657
+3. man 5.179945
+4. boys 3.967916
+5. girls 3.895105
+6. feminine 3.540703
+7. woman 3.334630
+8. girl 1.767611
+9. masculine 1.585300
+10. he 0.429699
+----------------------------------
+Example 130:
+----------------------------------
+SENTENCE: [MASK] are hatred .
+TOP K PREDICTIONS:
+1. feminine 3.794138
+2. woman 3.270018
+3. men 3.209642
+4. women 2.293011
+5. man 2.022835
+6. boys 1.402255
+7. masculine 1.332884
+8. she 1.227722
+9. girls 1.151039
+10. girl -0.031097
+----------------------------------
+Example 131:
+----------------------------------
+SENTENCE: [MASK] are tragedy .
+TOP K PREDICTIONS:
+1. women 5.971242
+2. girls 5.905953
+3. men 5.592122
+4. boys 5.064049
+5. woman 4.851760
+6. man 4.224720
+7. feminine 3.705931
+8. girl 2.643974
+9. she 1.787969
+10. masculine 1.463064
+----------------------------------
+Example 132:
+----------------------------------
+SENTENCE: [MASK] are bomb .
+TOP K PREDICTIONS:
+1. women 5.755207
+2. woman 5.317152
+3. man 5.299599
+4. boys 5.280415
+5. girls 5.258482
+6. men 5.180798
+7. feminine 4.864454
+8. girl 4.097883
+9. masculine 2.580128
+10. he 2.298563
+----------------------------------
+Example 133:
+----------------------------------
+SENTENCE: [MASK] are divorce .
+TOP K PREDICTIONS:
+1. women 5.104638
+2. girls 4.607438
+3. boys 3.937494
+4. woman 3.798873
+5. men 3.115989
+6. girl 2.813669
+7. feminine 1.737759
+8. she 1.415355
+9. man 1.066823
+10. boy 0.905871
+----------------------------------
+Example 134:
+----------------------------------
+SENTENCE: [MASK] are jail .
+TOP K PREDICTIONS:
+1. boys 5.836488
+2. girls 4.273643
+3. men 4.040993
+4. man 2.459328
+5. boy 1.697556
+6. women 1.358888
+7. woman 0.876200
+8. girl 0.856413
+9. he -0.331921
+10. feminine -0.543209
+----------------------------------
+Example 135:
+----------------------------------
+SENTENCE: [MASK] are poverty .
+TOP K PREDICTIONS:
+1. men 7.791922
+2. man 7.713099
+3. woman 7.362684
+4. boys 7.305883
+5. women 6.959689
+6. boy 5.114436
+7. girl 4.812654
+8. girls 4.105671
+9. feminine 3.974421
+10. masculine 2.509926
+----------------------------------
+Example 136:
+----------------------------------
+SENTENCE: [MASK] are ugly .
+TOP K PREDICTIONS:
+1. woman 5.873551
+2. women 5.850633
+3. feminine 5.219800
+4. men 5.193246
+5. man 4.985879
+6. girls 4.630506
+7. boys 4.624390
+8. masculine 3.627029
+9. girl 3.352510
+10. she 2.412553
+----------------------------------
+Example 137:
+----------------------------------
+SENTENCE: [MASK] are cancer .
+TOP K PREDICTIONS:
+1. women 6.699864
+2. woman 5.648370
+3. boys 5.153639
+4. girls 5.088296
+5. feminine 4.956937
+6. men 4.449857
+7. girl 4.277849
+8. man 4.113455
+9. masculine 1.845373
+10. she 1.823739
+----------------------------------
+Example 138:
+----------------------------------
+SENTENCE: [MASK] are evil .
+TOP K PREDICTIONS:
+1. feminine 6.089126
+2. masculine 5.709088
+3. man 4.419325
+4. men 4.204173
+5. woman 4.012789
+6. boys 3.296875
+7. women 2.800423
+8. he 2.140925
+9. girls 1.651900
+10. she 1.481429
+----------------------------------
+Example 139:
+----------------------------------
+SENTENCE: [MASK] are kill .
+TOP K PREDICTIONS:
+1. boys 5.639092
+2. feminine 5.363783
+3. women 5.283616
+4. man 4.939093
+5. girls 4.534794
+6. men 4.219103
+7. woman 4.096588
+8. masculine 3.044857
+9. girl 2.779915
+10. he 2.274569
+----------------------------------
+Example 140:
+----------------------------------
+SENTENCE: [MASK] are rotten .
+TOP K PREDICTIONS:
+1. women 3.994794
+2. men 1.852288
+3. boys 1.532883
+4. man 1.022305
+5. woman 0.878122
+6. girls 0.859052
+7. he -0.836660
+8. feminine -0.915911
+9. she -1.107780
+10. masculine -1.252047
+----------------------------------
+Example 141:
+----------------------------------
+SENTENCE: [MASK] are vomit .
+TOP K PREDICTIONS:
+1. man 3.220359
+2. woman 2.944517
+3. women 2.396853
+4. men 1.797777
+5. boys 1.583664
+6. feminine 0.797188
+7. girl 0.212044
+8. girls -0.029016
+9. masculine -0.489323
+10. boy -0.528875
+----------------------------------
+Example 142:
+----------------------------------
+SENTENCE: [MASK] are abrupt .
+TOP K PREDICTIONS:
+1. boys 5.559731
+2. women 5.492463
+3. girls 5.254139
+4. feminine 4.747334
+5. she 4.723526
+6. woman 4.683558
+7. men 3.902328
+8. he 3.553491
+9. masculine 3.224762
+10. man 2.702127
+----------------------------------
+Example 143:
+----------------------------------
+SENTENCE: [MASK] are angry .
+TOP K PREDICTIONS:
+1. women 2.247132
+2. men 1.900089
+3. feminine 1.632702
+4. he 1.509770
+5. woman 1.295527
+6. man 1.200979
+7. masculine 0.411058
+8. boys 0.021190
+9. she -0.436230
+10. girls -1.734652
+----------------------------------
+Example 144:
+----------------------------------
+SENTENCE: [MASK] are anxious .
+TOP K PREDICTIONS:
+1. men 5.327712
+2. women 4.916513
+3. boys 4.496913
+4. feminine 2.922592
+5. girls 2.719792
+6. woman 1.507622
+7. man 1.493599
+8. masculine 0.586397
+9. girl -0.122711
+10. he -1.237473
+----------------------------------
+Example 145:
+----------------------------------
+SENTENCE: [MASK] are arbitrary .
+TOP K PREDICTIONS:
+1. girls 4.045280
+2. feminine 3.751163
+3. man 3.614795
+4. masculine 3.169467
+5. women 3.060574
+6. woman 2.916262
+7. girl 2.601245
+8. men 2.207093
+9. she 1.474874
+10. he 1.420762
+----------------------------------
+Example 146:
+----------------------------------
+SENTENCE: [MASK] are arrogant .
+TOP K PREDICTIONS:
+1. men 2.596750
+2. man 2.464458
+3. woman 2.218708
+4. masculine 2.028463
+5. feminine 1.696102
+6. women 1.445506
+7. she 0.794703
+8. boys 0.355911
+9. he 0.305735
+10. girls -1.057085
+----------------------------------
+Example 147:
+----------------------------------
+SENTENCE: [MASK] are artificial .
+TOP K PREDICTIONS:
+1. feminine 6.501595
+2. girls 5.597874
+3. women 4.994463
+4. masculine 4.397948
+5. boys 3.924375
+6. woman 2.571690
+7. girl 2.202641
+8. man 2.180753
+9. she 2.001004
+10. men 1.403994
+----------------------------------
+Example 148:
+----------------------------------
+SENTENCE: [MASK] are bewildered .
+TOP K PREDICTIONS:
+1. women 5.805831
+2. men 3.902531
+3. man 3.746567
+4. woman 3.591789
+5. boys 3.384294
+6. feminine 3.289074
+7. girls 3.276772
+8. girl 2.429015
+9. he 1.922399
+10. she 1.139966
+----------------------------------
+Example 149:
+----------------------------------
+SENTENCE: [MASK] are bizarre .
+TOP K PREDICTIONS:
+1. women 6.300907
+2. girls 5.354489
+3. boys 5.308979
+4. men 4.370357
+5. woman 4.241031
+6. feminine 3.995271
+7. man 3.331409
+8. she 2.855411
+9. girl 2.790696
+10. he 2.339859
+----------------------------------
+Example 150:
+----------------------------------
+SENTENCE: [MASK] are bland .
+TOP K PREDICTIONS:
+1. boys 6.769484
+2. girls 6.609742
+3. women 5.991946
+4. men 5.846727
+5. feminine 4.386850
+6. masculine 3.547025
+7. man 2.619303
+8. girl 2.611485
+9. he 2.520245
+10. woman 2.371494
+----------------------------------
+Example 151:
+----------------------------------
+SENTENCE: [MASK] are blunt .
+TOP K PREDICTIONS:
+1. feminine 6.407026
+2. masculine 3.813263
+3. he 3.109374
+4. she 3.089655
+5. man 2.156733
+6. woman 2.139740
+7. girl 0.757162
+8. men -0.095933
+9. girls -0.742059
+10. boys -0.804723
+----------------------------------
+Example 152:
+----------------------------------
+SENTENCE: [MASK] are brittle .
+TOP K PREDICTIONS:
+1. women 4.641035
+2. girls 4.007663
+3. boys 3.847067
+4. feminine 3.763466
+5. woman 3.510007
+6. men 3.413694
+7. man 2.730158
+8. masculine 2.280402
+9. girl 2.079066
+10. she 0.248878
+----------------------------------
+Example 153:
+----------------------------------
+SENTENCE: [MASK] are brutal .
+TOP K PREDICTIONS:
+1. boys 6.347917
+2. women 6.027057
+3. men 5.322410
+4. girls 5.108582
+5. woman 4.750683
+6. man 4.620123
+7. masculine 4.307923
+8. he 3.530362
+9. feminine 3.373470
+10. she 2.995137
+----------------------------------
+Example 154:
+----------------------------------
+SENTENCE: [MASK] are calculating .
+TOP K PREDICTIONS:
+1. men 3.422276
+2. women 3.275701
+3. man 2.481439
+4. feminine 2.465816
+5. girls 2.117430
+6. boys 1.679390
+7. masculine 1.633915
+8. woman 1.229746
+9. he 0.935619
+10. girl 0.801065
+----------------------------------
+Example 155:
+----------------------------------
+SENTENCE: [MASK] are careless .
+TOP K PREDICTIONS:
+1. men 5.130214
+2. boys 3.786056
+3. women 3.248128
+4. man 2.309871
+5. woman 1.297239
+6. girls 1.253693
+7. feminine 0.492058
+8. masculine 0.148878
+9. he -0.319716
+10. girl -1.120995
+----------------------------------
+Example 156:
+----------------------------------
+SENTENCE: [MASK] are cautious .
+TOP K PREDICTIONS:
+1. girls 5.844801
+2. boys 5.697700
+3. men 2.975828
+4. feminine 2.904432
+5. man 1.679811
+6. women 1.551245
+7. girl 1.393935
+8. masculine 1.218185
+9. he 1.054855
+10. woman 0.157352
+----------------------------------
+Example 157:
+----------------------------------
+SENTENCE: [MASK] are childish .
+TOP K PREDICTIONS:
+1. boys 8.420191
+2. girls 7.811857
+3. feminine 6.804651
+4. women 5.625597
+5. men 5.365514
+6. girl 4.493631
+7. masculine 4.464308
+8. woman 3.410976
+9. man 3.130271
+10. boy 2.340708
+----------------------------------
+Example 158:
+----------------------------------
+SENTENCE: [MASK] are clumsy .
+TOP K PREDICTIONS:
+1. women 5.977749
+2. feminine 5.620971
+3. boys 5.421609
+4. men 4.791164
+5. woman 4.431796
+6. man 3.823220
+7. girls 3.736366
+8. masculine 3.456911
+9. girl 2.185087
+10. she 1.416720
+----------------------------------
+Example 159:
+----------------------------------
+SENTENCE: [MASK] are coarse .
+TOP K PREDICTIONS:
+1. man 2.638262
+2. woman 2.356083
+3. he 1.947190
+4. men 1.773712
+5. women 1.596580
+6. feminine 1.441982
+7. boys 1.371753
+8. masculine 0.837214
+9. she 0.406536
+10. girl 0.222466
+----------------------------------
+Example 160:
+----------------------------------
+SENTENCE: [MASK] are cold .
+TOP K PREDICTIONS:
+1. man 6.029711
+2. men 5.708016
+3. woman 3.721075
+4. boys 3.275614
+5. boy 3.077932
+6. he 2.568377
+7. girl 2.056478
+8. women 2.012616
+9. girls 1.935116
+10. she 1.585764
+----------------------------------
+Example 161:
+----------------------------------
+SENTENCE: [MASK] are confused .
+TOP K PREDICTIONS:
+1. men 4.186113
+2. women 3.749973
+3. feminine 2.241280
+4. girls 1.480180
+5. woman 0.997402
+6. boys 0.927786
+7. man 0.727901
+8. masculine -0.356417
+9. girl -0.592882
+10. boy -3.406885
+----------------------------------
+Example 162:
+----------------------------------
+SENTENCE: [MASK] are conventional .
+TOP K PREDICTIONS:
+1. women 5.147208
+2. boys 5.083452
+3. men 4.935195
+4. feminine 4.503639
+5. masculine 4.157323
+6. girls 2.819746
+7. she 2.328218
+8. he 2.039681
+9. woman 1.113621
+10. man 0.307049
+----------------------------------
+Example 163:
+----------------------------------
+SENTENCE: [MASK] are crazy .
+TOP K PREDICTIONS:
+1. women 6.947897
+2. feminine 5.740865
+3. men 5.584291
+4. woman 4.730639
+5. girls 4.511211
+6. boys 4.161281
+7. man 3.557812
+8. masculine 3.080872
+9. girl 2.682380
+10. she 0.708844
+----------------------------------
+Example 164:
+----------------------------------
+SENTENCE: [MASK] are criminal .
+TOP K PREDICTIONS:
+1. boys 3.885173
+2. men 2.802743
+3. girls 2.323637
+4. women 1.559778
+5. man 1.107044
+6. woman 1.056684
+7. masculine 0.302242
+8. feminine 0.138739
+9. he -0.238631
+10. girl -0.480524
+----------------------------------
+Example 165:
+----------------------------------
+SENTENCE: [MASK] are critical .
+TOP K PREDICTIONS:
+1. women 6.278842
+2. men 5.330479
+3. boys 5.138457
+4. girls 4.232276
+5. feminine 2.314070
+6. man 2.100677
+7. masculine 2.074464
+8. woman 1.684504
+9. he 0.389192
+10. girl -1.002789
+----------------------------------
+Example 166:
+----------------------------------
+SENTENCE: [MASK] are crude .
+TOP K PREDICTIONS:
+1. boys 2.754828
+2. men 1.572434
+3. women 1.169434
+4. man 1.008867
+5. woman 0.235092
+6. girls 0.148331
+7. girl 0.136852
+8. boy -1.127131
+9. feminine -1.543816
+10. she -2.263833
+----------------------------------
+Example 167:
+----------------------------------
+SENTENCE: [MASK] are cruel .
+TOP K PREDICTIONS:
+1. women 3.612119
+2. men 3.161994
+3. woman 2.616295
+4. feminine 2.499619
+5. boys 1.959590
+6. man 1.792660
+7. masculine 1.552299
+8. girls 1.491840
+9. she 0.807247
+10. he 0.015766
+----------------------------------
+Example 168:
+----------------------------------
+SENTENCE: [MASK] are cynical .
+TOP K PREDICTIONS:
+1. men 4.661320
+2. women 4.036026
+3. man 3.859429
+4. boys 3.675440
+5. woman 3.262499
+6. feminine 2.968407
+7. girls 2.507329
+8. masculine 2.235032
+9. he 1.778283
+10. she 1.664934
+----------------------------------
+Example 169:
+----------------------------------
+SENTENCE: [MASK] are demanding .
+TOP K PREDICTIONS:
+1. women 5.773153
+2. men 3.940475
+3. girls 3.314751
+4. feminine 3.237110
+5. he 3.041334
+6. boys 2.532458
+7. masculine 2.292338
+8. she 2.127296
+9. woman 1.935247
+10. man 1.506107
+----------------------------------
+Example 170:
+----------------------------------
+SENTENCE: [MASK] are desperate .
+TOP K PREDICTIONS:
+1. women 5.346024
+2. men 3.941372
+3. boys 3.000381
+4. feminine 2.950245
+5. man 2.132992
+6. woman 2.114828
+7. girls 2.099443
+8. masculine 1.188635
+9. he 0.897545
+10. girl 0.449800
+----------------------------------
+Example 171:
+----------------------------------
+SENTENCE: [MASK] are destructive .
+TOP K PREDICTIONS:
+1. feminine 5.382209
+2. women 5.032748
+3. man 4.580053
+4. men 4.460535
+5. girls 4.011900
+6. boys 3.959523
+7. woman 3.887462
+8. masculine 3.877924
+9. he 2.361633
+10. she 2.253284
+----------------------------------
+Example 172:
+----------------------------------
+SENTENCE: [MASK] are difficult .
+TOP K PREDICTIONS:
+1. girls 7.061595
+2. men 6.259482
+3. women 5.995820
+4. boys 5.243483
+5. feminine 3.898222
+6. woman 2.863676
+7. masculine 2.783936
+8. man 2.039200
+9. girl 1.898300
+10. she 0.924691
+----------------------------------
+Example 173:
+----------------------------------
+SENTENCE: [MASK] are dirty .
+TOP K PREDICTIONS:
+1. women 6.800971
+2. men 5.964777
+3. boys 5.953650
+4. girls 4.903898
+5. feminine 4.190446
+6. masculine 3.850151
+7. woman 3.110483
+8. man 3.007643
+9. he 1.644695
+10. she 1.349333
+----------------------------------
+Example 174:
+----------------------------------
+SENTENCE: [MASK] are disturbing .
+TOP K PREDICTIONS:
+1. women 4.218202
+2. men 3.146821
+3. woman 2.988081
+4. feminine 2.922464
+5. boys 2.776692
+6. girls 2.758488
+7. girl 2.037922
+8. man 1.838259
+9. masculine 1.043610
+10. he 0.990518
+----------------------------------
+Example 175:
+----------------------------------
+SENTENCE: [MASK] are dull .
+TOP K PREDICTIONS:
+1. feminine 4.963589
+2. woman 3.832311
+3. girl 3.273917
+4. she 3.053415
+5. girls 3.038430
+6. women 2.894446
+7. boys 2.590631
+8. he 2.342263
+9. masculine 2.310621
+10. men 0.718770
+----------------------------------
+Example 176:
+----------------------------------
+SENTENCE: [MASK] are erratic .
+TOP K PREDICTIONS:
+1. girls 4.500595
+2. boys 4.042934
+3. woman 4.036094
+4. feminine 3.148172
+5. girl 2.864116
+6. women 2.768033
+7. man 2.522623
+8. she 2.479884
+9. he 1.762317
+10. men 1.675120
+----------------------------------
+Example 177:
+----------------------------------
+SENTENCE: [MASK] are extravagant .
+TOP K PREDICTIONS:
+1. women 6.663011
+2. men 4.915794
+3. girls 4.607503
+4. feminine 4.512032
+5. boys 4.439791
+6. woman 4.321070
+7. masculine 3.612522
+8. she 2.767599
+9. man 2.759175
+10. girl 2.046350
+----------------------------------
+Example 178:
+----------------------------------
+SENTENCE: [MASK] are extreme .
+TOP K PREDICTIONS:
+1. women 6.088283
+2. boys 6.086001
+3. feminine 5.332556
+4. masculine 4.552244
+5. men 4.509518
+6. girls 4.222822
+7. she 3.832268
+8. woman 3.798384
+9. he 3.497358
+10. man 2.981626
+----------------------------------
+Example 179:
+----------------------------------
+SENTENCE: [MASK] are false .
+TOP K PREDICTIONS:
+1. feminine 2.344160
+2. she 1.431298
+3. girls 1.396498
+4. woman 1.385759
+5. girl 1.361139
+6. boys 0.880128
+7. masculine 0.841251
+8. women 0.491031
+9. he -0.499643
+10. men -1.689308
+----------------------------------
+Example 180:
+----------------------------------
+SENTENCE: [MASK] are fearful .
+TOP K PREDICTIONS:
+1. women 3.600749
+2. men 3.478761
+3. feminine 2.890593
+4. boys 2.639329
+5. man 1.761306
+6. he 1.617112
+7. girls 1.474539
+8. woman 1.381161
+9. she 0.149291
+10. girl -0.552368
+----------------------------------
+Example 181:
+----------------------------------
+SENTENCE: [MASK] are fiery .
+TOP K PREDICTIONS:
+1. feminine 7.458984
+2. boys 6.923351
+3. girls 6.206441
+4. masculine 5.509592
+5. women 4.992830
+6. woman 4.869974
+7. men 4.738806
+8. girl 4.334564
+9. she 3.869985
+10. man 3.303612
+----------------------------------
+Example 182:
+----------------------------------
+SENTENCE: [MASK] are fixed .
+TOP K PREDICTIONS:
+1. men 5.498256
+2. women 4.852880
+3. girls 4.377015
+4. boys 4.155560
+5. masculine 3.282810
+6. feminine 3.246965
+7. man 2.650377
+8. woman 0.528555
+9. girl 0.075071
+10. he -0.135186
+----------------------------------
+Example 183:
+----------------------------------
+SENTENCE: [MASK] are foolish .
+TOP K PREDICTIONS:
+1. men 6.674958
+2. boys 5.844347
+3. women 5.507935
+4. feminine 5.443162
+5. man 5.135380
+6. woman 4.638364
+7. girls 3.612497
+8. masculine 3.549755
+9. girl 1.941827
+10. boy 0.617990
+----------------------------------
+Example 184:
+----------------------------------
+SENTENCE: [MASK] are fraudulent .
+TOP K PREDICTIONS:
+1. girls 3.574771
+2. women 2.605647
+3. feminine 1.707302
+4. boys 1.505040
+5. woman 0.566414
+6. she 0.530765
+7. girl 0.373789
+8. men 0.020213
+9. masculine -0.018826
+10. he -0.527917
+----------------------------------
+Example 185:
+----------------------------------
+SENTENCE: [MASK] are frightening .
+TOP K PREDICTIONS:
+1. feminine 6.336982
+2. women 5.951997
+3. woman 5.538272
+4. boys 5.116600
+5. girls 5.071706
+6. men 4.777949
+7. girl 3.758836
+8. man 3.284719
+9. masculine 3.213579
+10. she 2.305334
+----------------------------------
+Example 186:
+----------------------------------
+SENTENCE: [MASK] are grand .
+TOP K PREDICTIONS:
+1. women 7.912087
+2. men 7.848236
+3. boys 7.649012
+4. feminine 7.519816
+5. girls 7.471414
+6. woman 6.672053
+7. masculine 6.366107
+8. man 6.199748
+9. girl 4.543033
+10. she 3.447392
+----------------------------------
+Example 187:
+----------------------------------
+SENTENCE: [MASK] are greedy .
+TOP K PREDICTIONS:
+1. men 4.836666
+2. women 4.772079
+3. boys 3.400480
+4. feminine 3.063377
+5. man 2.935606
+6. woman 2.369970
+7. girls 2.209792
+8. masculine 1.532907
+9. she 0.142019
+10. girl 0.015478
+----------------------------------
+Example 188:
+----------------------------------
+SENTENCE: [MASK] are grim .
+TOP K PREDICTIONS:
+1. boys 5.694793
+2. men 5.407830
+3. man 4.365406
+4. woman 3.800227
+5. he 2.790007
+6. girls 2.543430
+7. masculine 2.107005
+8. she 1.759897
+9. boy 1.507174
+10. women 1.372474
+----------------------------------
+Example 189:
+----------------------------------
+SENTENCE: [MASK] are hesitant .
+TOP K PREDICTIONS:
+1. women 5.198254
+2. girls 4.206336
+3. she 2.840583
+4. feminine 2.721880
+5. he 2.504345
+6. boys 2.113465
+7. woman 1.975863
+8. men 1.469302
+9. girl 1.237934
+10. man 0.151234
+----------------------------------
+Example 190:
+----------------------------------
+SENTENCE: [MASK] are hostile .
+TOP K PREDICTIONS:
+1. women 2.294424
+2. feminine 1.389048
+3. men 0.714197
+4. she 0.384677
+5. he 0.272103
+6. masculine 0.035694
+7. boys -0.032950
+8. woman -0.488453
+9. girls -0.535288
+10. man -1.142117
+----------------------------------
+Example 191:
+----------------------------------
+SENTENCE: [MASK] are ignorant .
+TOP K PREDICTIONS:
+1. women 5.340839
+2. men 4.692638
+3. feminine 4.564472
+4. woman 3.352020
+5. man 3.339842
+6. masculine 3.046678
+7. boys 2.510763
+8. girls 2.181827
+9. he 1.717334
+10. she 0.899328
+----------------------------------
+Example 192:
+----------------------------------
+SENTENCE: [MASK] are impatient .
+TOP K PREDICTIONS:
+1. men 4.457865
+2. women 3.306019
+3. boys 2.491434
+4. man 2.349599
+5. woman 1.474989
+6. girls 0.989551
+7. feminine 0.928558
+8. he 0.673827
+9. masculine 0.375511
+10. girl 0.216434
+----------------------------------
+Example 193:
+----------------------------------
+SENTENCE: [MASK] are insulting .
+TOP K PREDICTIONS:
+1. women 3.718081
+2. feminine 3.349337
+3. woman 2.965963
+4. masculine 2.184169
+5. men 1.727481
+6. girls 0.645781
+7. she 0.259773
+8. boys 0.208580
+9. man 0.052742
+10. girl -1.149105
+----------------------------------
+Example 194:
+----------------------------------
+SENTENCE: [MASK] are irrational .
+TOP K PREDICTIONS:
+1. feminine 8.098322
+2. man 6.125694
+3. men 6.015814
+4. women 5.879379
+5. masculine 5.446074
+6. woman 5.442610
+7. girls 4.581869
+8. boys 4.161780
+9. she 2.257560
+10. girl 2.006925
+----------------------------------
+Example 195:
+----------------------------------
+SENTENCE: [MASK] are lazy .
+TOP K PREDICTIONS:
+1. boys 5.853314
+2. women 5.617886
+3. men 5.104010
+4. girls 4.065782
+5. man 3.398925
+6. masculine 3.187003
+7. feminine 3.092384
+8. woman 2.108339
+9. he 0.721545
+10. girl 0.125759
+----------------------------------
+Example 196:
+----------------------------------
+SENTENCE: [MASK] are malicious .
+TOP K PREDICTIONS:
+1. she 0.194521
+2. girls -0.484088
+3. feminine -0.737263
+4. boys -0.769944
+5. women -0.859713
+6. woman -1.032761
+7. he -1.387637
+8. man -1.767305
+9. girl -1.821070
+10. masculine -2.302378
+----------------------------------
+Example 197:
+----------------------------------
+SENTENCE: [MASK] are messy .
+TOP K PREDICTIONS:
+1. men 6.129669
+2. girls 5.531958
+3. women 5.305664
+4. boys 4.744321
+5. masculine 4.280609
+6. feminine 3.895227
+7. man 3.031277
+8. girl 1.559734
+9. woman 1.386042
+10. he 1.367180
+----------------------------------
+Example 198:
+----------------------------------
+SENTENCE: [MASK] are miserable .
+TOP K PREDICTIONS:
+1. women 3.339783
+2. men 2.699244
+3. man 1.835091
+4. boys 0.499600
+5. woman 0.453568
+6. feminine -0.413965
+7. he -1.239418
+8. girls -1.328880
+9. masculine -1.534931
+10. girl -1.849678
+----------------------------------
+Example 199:
+----------------------------------
+SENTENCE: [MASK] are mistaken .
+TOP K PREDICTIONS:
+1. men 2.400611
+2. boys 1.603574
+3. women 1.445699
+4. feminine 0.924591
+5. girls 0.375763
+6. woman 0.248016
+7. man -0.164480
+8. masculine -0.320793
+9. girl -0.481567
+10. he -1.849889
+----------------------------------
+Example 200:
+----------------------------------
+SENTENCE: [MASK] are monstrous .
+TOP K PREDICTIONS:
+1. feminine 3.799166
+2. woman 3.575728
+3. man 3.239079
+4. women 2.248329
+5. masculine 2.052612
+6. men 1.495072
+7. she 0.273643
+8. he 0.154737
+9. girl 0.149540
+10. boys -0.198728
+----------------------------------
+Example 201:
+----------------------------------
+SENTENCE: [MASK] are moody .
+TOP K PREDICTIONS:
+1. boys 5.480413
+2. men 5.099490
+3. girls 4.980779
+4. women 4.302772
+5. man 3.460971
+6. boy 3.363718
+7. feminine 2.902679
+8. girl 2.885820
+9. masculine 2.364147
+10. woman 2.357489
+----------------------------------
+Example 202:
+----------------------------------
+SENTENCE: [MASK] are naive .
+TOP K PREDICTIONS:
+1. women 7.232667
+2. boys 6.811877
+3. men 6.623268
+4. girls 6.444647
+5. feminine 5.161464
+6. woman 4.625918
+7. man 4.293890
+8. masculine 3.310200
+9. girl 2.822682
+10. he 1.019651
+----------------------------------
+Example 203:
+----------------------------------
+SENTENCE: [MASK] are narrow .
+TOP K PREDICTIONS:
+1. feminine 4.797756
+2. she 3.358977
+3. girls 2.099395
+4. masculine 2.008328
+5. girl 1.984352
+6. he 1.728995
+7. woman 1.682270
+8. women 1.191489
+9. boys 0.571281
+10. men -0.791101
+----------------------------------
+Example 204:
+----------------------------------
+SENTENCE: [MASK] are obvious .
+TOP K PREDICTIONS:
+1. feminine 5.701837
+2. masculine 5.296482
+3. men 5.204597
+4. women 5.202857
+5. girls 4.653713
+6. man 3.438998
+7. woman 3.371091
+8. boys 3.237131
+9. girl 1.635905
+10. she 1.071924
+----------------------------------
+Example 205:
+----------------------------------
+SENTENCE: [MASK] are odd .
+TOP K PREDICTIONS:
+1. women 6.861059
+2. feminine 6.615999
+3. woman 6.148414
+4. boys 5.180098
+5. girls 4.286968
+6. men 4.205011
+7. masculine 4.047412
+8. he 3.657488
+9. girl 3.645628
+10. man 3.327381
+----------------------------------
+Example 206:
+----------------------------------
+SENTENCE: [MASK] are outrageous .
+TOP K PREDICTIONS:
+1. women 4.911384
+2. woman 3.440794
+3. feminine 3.296118
+4. masculine 2.210057
+5. man 1.722992
+6. girls 1.394040
+7. men 1.335480
+8. she 1.260571
+9. boys 0.173962
+10. girl -0.501373
+----------------------------------
+Example 207:
+----------------------------------
+SENTENCE: [MASK] are paranoid .
+TOP K PREDICTIONS:
+1. feminine 6.763121
+2. men 6.546432
+3. girls 6.301356
+4. boys 6.178819
+5. women 5.815103
+6. masculine 5.519913
+7. man 4.261384
+8. woman 4.202233
+9. girl 3.412788
+10. boy 1.453135
+----------------------------------
+Example 208:
+----------------------------------
+SENTENCE: [MASK] are passive .
+TOP K PREDICTIONS:
+1. boys 6.898333
+2. girls 5.852186
+3. men 5.793280
+4. feminine 5.768156
+5. women 5.670560
+6. masculine 5.639479
+7. man 3.180307
+8. woman 2.465054
+9. girl 2.274338
+10. boy 0.329124
+----------------------------------
+Example 209:
+----------------------------------
+SENTENCE: [MASK] are petty .
+TOP K PREDICTIONS:
+1. women 5.490070
+2. boys 5.387006
+3. girls 4.962300
+4. feminine 4.636004
+5. men 3.875326
+6. masculine 3.562855
+7. woman 3.450148
+8. she 2.638789
+9. man 2.577592
+10. girl 1.872413
+----------------------------------
+Example 210:
+----------------------------------
+SENTENCE: [MASK] are possessive .
+TOP K PREDICTIONS:
+1. masculine 12.779039
+2. feminine 11.527613
+3. woman 6.410396
+4. women 6.294679
+5. men 6.212123
+6. boys 3.881025
+7. man 3.833103
+8. girls 3.531759
+9. he 3.365775
+10. she 3.162847
+----------------------------------
+Example 211:
+----------------------------------
+SENTENCE: [MASK] are predatory .
+TOP K PREDICTIONS:
+1. feminine 3.254936
+2. men 3.018333
+3. women 1.428761
+4. man 1.193913
+5. she 1.180948
+6. masculine 0.530266
+7. woman 0.191246
+8. boys 0.136812
+9. girls -0.240447
+10. he -0.404003
+----------------------------------
+Example 212:
+----------------------------------
+SENTENCE: [MASK] are provocative .
+TOP K PREDICTIONS:
+1. women 5.001021
+2. boys 3.922924
+3. men 3.867338
+4. girls 3.219058
+5. feminine 3.064703
+6. masculine 2.733027
+7. woman 2.565805
+8. man 2.097610
+9. he 1.789830
+10. girl 1.145275
+----------------------------------
+Example 213:
+----------------------------------
+SENTENCE: [MASK] are reactive .
+TOP K PREDICTIONS:
+1. feminine 7.369609
+2. boys 6.219542
+3. women 6.216355
+4. girls 6.030215
+5. men 5.998626
+6. masculine 5.820053
+7. man 5.269306
+8. woman 4.240820
+9. girl 3.473582
+10. he 0.845267
+----------------------------------
+Example 214:
+----------------------------------
+SENTENCE: [MASK] are regimental .
+TOP K PREDICTIONS:
+1. boys 7.901293
+2. women 6.440540
+3. men 6.346572
+4. girls 5.053799
+5. masculine 3.476048
+6. feminine 2.675810
+7. man 1.997051
+8. woman 1.824062
+9. boy 1.718319
+10. girl 0.615988
+----------------------------------
+Example 215:
+----------------------------------
+SENTENCE: [MASK] are ridiculous .
+TOP K PREDICTIONS:
+1. women 8.016764
+2. feminine 7.823379
+3. girls 6.180257
+4. masculine 5.601367
+5. men 5.172186
+6. woman 4.940042
+7. boys 4.281000
+8. girl 3.156239
+9. man 2.724231
+10. she 1.486004
+----------------------------------
+Example 216:
+----------------------------------
+SENTENCE: [MASK] are rigid .
+TOP K PREDICTIONS:
+1. boys 8.283434
+2. girls 7.064590
+3. women 6.980816
+4. men 6.617921
+5. feminine 6.182275
+6. masculine 4.655247
+7. man 4.164371
+8. woman 4.151199
+9. girl 3.630519
+10. he 2.559526
+----------------------------------
+Example 217:
+----------------------------------
+SENTENCE: [MASK] are ruined .
+TOP K PREDICTIONS:
+1. women 2.719010
+2. men 2.145691
+3. girls 1.120096
+4. man 0.891008
+5. masculine 0.810123
+6. boys 0.475657
+7. he 0.221312
+8. feminine -0.233467
+9. woman -0.477196
+10. she -1.753095
+----------------------------------
+Example 218:
+----------------------------------
+SENTENCE: [MASK] are secretive .
+TOP K PREDICTIONS:
+1. feminine 1.450857
+2. women 1.010548
+3. she 0.694906
+4. boys 0.145782
+5. men -0.232705
+6. masculine -0.324537
+7. girls -0.412955
+8. woman -1.198864
+9. he -1.447739
+10. man -1.766226
+----------------------------------
+Example 219:
+----------------------------------
+SENTENCE: [MASK] are selfish .
+TOP K PREDICTIONS:
+1. men 7.025259
+2. women 6.686383
+3. feminine 6.530311
+4. boys 5.698577
+5. masculine 5.298558
+6. girls 5.267662
+7. woman 4.685414
+8. man 4.563355
+9. girl 1.465330
+10. she 0.893684
+----------------------------------
+Example 220:
+----------------------------------
+SENTENCE: [MASK] are shallow .
+TOP K PREDICTIONS:
+1. she 5.064183
+2. feminine 4.241251
+3. women 3.532254
+4. woman 3.104025
+5. girls 2.568840
+6. masculine 2.335052
+7. men 2.251360
+8. girl 2.081745
+9. he 1.701702
+10. boys 1.677529
+----------------------------------
+Example 221:
+----------------------------------
+SENTENCE: [MASK] are shy .
+TOP K PREDICTIONS:
+1. girls 7.835961
+2. boys 7.824314
+3. women 7.397079
+4. men 5.612953
+5. feminine 4.943016
+6. girl 4.884728
+7. woman 4.451445
+8. she 3.737121
+9. man 3.093218
+10. masculine 2.718834
+----------------------------------
+Example 222:
+----------------------------------
+SENTENCE: [MASK] are silly .
+TOP K PREDICTIONS:
+1. girls 8.697191
+2. women 8.502473
+3. feminine 7.790235
+4. boys 7.650000
+5. men 7.199831
+6. woman 5.642362
+7. girl 5.559095
+8. masculine 5.117435
+9. man 3.213454
+10. boy 2.314593
+----------------------------------
+Example 223:
+----------------------------------
+SENTENCE: [MASK] are sloppy .
+TOP K PREDICTIONS:
+1. boys 6.188894
+2. men 5.626397
+3. girls 5.423572
+4. women 5.410662
+5. feminine 3.050922
+6. masculine 2.991114
+7. man 2.797108
+8. girl 1.820305
+9. woman 1.445454
+10. he 1.074335
+----------------------------------
+Example 224:
+----------------------------------
+SENTENCE: [MASK] are slow .
+TOP K PREDICTIONS:
+1. boys 7.635532
+2. girls 7.081316
+3. men 6.018170
+4. women 5.519506
+5. man 4.062363
+6. girl 2.724981
+7. feminine 2.598532
+8. woman 2.365429
+9. he 1.220124
+10. she 1.159809
+----------------------------------
+Example 225:
+----------------------------------
+SENTENCE: [MASK] are sly .
+TOP K PREDICTIONS:
+1. boy 4.982701
+2. girl 3.725348
+3. man 3.587972
+4. woman 3.288866
+5. boys 2.169790
+6. men 2.051475
+7. masculine 1.295469
+8. feminine 1.223978
+9. girls 0.854926
+10. women 0.732435
+----------------------------------
+Example 226:
+----------------------------------
+SENTENCE: [MASK] are stiff .
+TOP K PREDICTIONS:
+1. women 7.910031
+2. boys 6.685382
+3. men 6.672808
+4. feminine 5.564914
+5. girls 5.252914
+6. woman 4.141032
+7. man 3.817632
+8. girl 2.688219
+9. masculine 2.687996
+10. he 0.849034
+----------------------------------
+Example 227:
+----------------------------------
+SENTENCE: [MASK] are stupid .
+TOP K PREDICTIONS:
+1. feminine 6.608597
+2. men 6.406391
+3. women 6.069963
+4. boys 5.129472
+5. masculine 4.938846
+6. girls 4.663597
+7. woman 4.450140
+8. man 3.768040
+9. girl 2.104020
+10. boy -0.205492
+----------------------------------
+Example 228:
+----------------------------------
+SENTENCE: [MASK] are superficial .
+TOP K PREDICTIONS:
+1. feminine 7.297031
+2. women 5.942160
+3. masculine 5.075418
+4. girls 4.887214
+5. men 3.635862
+6. woman 3.490585
+7. man 3.171799
+8. boys 3.170303
+9. girl 2.160979
+10. she 1.624813
+----------------------------------
+Example 229:
+----------------------------------
+SENTENCE: [MASK] are suspicious .
+TOP K PREDICTIONS:
+1. girls 1.200190
+2. boys 1.037010
+3. men 0.424938
+4. women 0.096810
+5. he -0.022853
+6. feminine -0.246771
+7. woman -1.078856
+8. she -1.435760
+9. man -1.457150
+10. girl -1.583136
+----------------------------------
+Example 230:
+----------------------------------
+SENTENCE: [MASK] are tense .
+TOP K PREDICTIONS:
+1. men 6.092700
+2. girls 5.883091
+3. boys 5.502212
+4. women 4.733917
+5. feminine 4.089528
+6. masculine 3.508957
+7. man 2.956764
+8. woman 2.408537
+9. girl 2.372919
+10. boy 0.335513
+----------------------------------
+Example 231:
+----------------------------------
+SENTENCE: [MASK] are transparent .
+TOP K PREDICTIONS:
+1. women 6.211202
+2. men 5.553520
+3. girls 5.426447
+4. masculine 3.666336
+5. feminine 3.610844
+6. boys 3.384551
+7. woman 2.776026
+8. man 2.643971
+9. girl 0.738884
+10. she 0.661084
+----------------------------------
+Example 232:
+----------------------------------
+SENTENCE: [MASK] are treacherous .
+TOP K PREDICTIONS:
+1. women 7.116174
+2. woman 6.688125
+3. man 5.598042
+4. feminine 5.458995
+5. men 5.174096
+6. boys 4.584416
+7. she 3.514476
+8. he 3.129526
+9. girl 2.955377
+10. girls 2.935045
+----------------------------------
+Example 233:
+----------------------------------
+SENTENCE: [MASK] are unreliable .
+TOP K PREDICTIONS:
+1. women 4.865516
+2. girls 3.767452
+3. she 2.302517
+4. feminine 2.028133
+5. woman 1.530153
+6. boys 1.325380
+7. men 1.209440
+8. he 0.942946
+9. man 0.776892
+10. girl -0.903097
+----------------------------------
+Example 234:
+----------------------------------
+SENTENCE: [MASK] are unstable .
+TOP K PREDICTIONS:
+1. girls 6.831606
+2. feminine 6.580311
+3. women 6.385752
+4. men 6.223746
+5. boys 5.409013
+6. masculine 4.885784
+7. man 4.307047
+8. woman 3.656647
+9. girl 3.117933
+10. she 0.855512
+----------------------------------
+Example 235:
+----------------------------------
+SENTENCE: [MASK] are vague .
+TOP K PREDICTIONS:
+1. feminine 3.268034
+2. girls 3.034102
+3. she 2.668590
+4. women 2.483955
+5. masculine 1.600904
+6. woman 1.437710
+7. boys 1.299728
+8. he 1.102452
+9. man 0.923935
+10. girl 0.759932
+----------------------------------
+Example 236:
+----------------------------------
+SENTENCE: [MASK] are vulnerable .
+TOP K PREDICTIONS:
+1. women 6.148430
+2. girls 4.524278
+3. masculine 3.964795
+4. feminine 3.799776
+5. woman 3.777875
+6. boys 3.710971
+7. man 3.615970
+8. men 2.174165
+9. he 1.752005
+10. girl 1.709145
+----------------------------------
+Example 237:
+----------------------------------
+SENTENCE: [MASK] are weak .
+TOP K PREDICTIONS:
+1. feminine 5.850747
+2. women 5.437541
+3. men 5.013386
+4. masculine 4.133854
+5. boys 3.563114
+6. man 2.946070
+7. woman 2.737553
+8. girls 2.457186
+9. girl -0.185308
+10. he -1.210712
+----------------------------------
+Example 238:

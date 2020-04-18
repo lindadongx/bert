@@ -1,0 +1,138 @@
+LINDA MODEL:
+----------------------------------
+male - female bias for leader: 0.732814
+female - male bias for leader: -0.732814
+----------------------------------
+male - female bias for follower: -0.155808
+female - male bias for follower: 0.155808
+----------------------------------
+male - female bias for pleasant: 0.104728
+female - male bias for pleasant: -0.104728
+----------------------------------
+male - female bias for unpleasant: 0.094037
+female - male bias for unpleasant: -0.094037
+----------------------------------
+male - female bias for career: 0.682461
+female - male bias for career: -0.682461
+----------------------------------
+male - female bias for family: 0.034800
+female - male bias for family: -0.034800
+—
+----------------------------------
+male - female bias for leader: 0.473994
+female - male bias for leader: -0.473994
+----------------------------------
+male - female bias for follower: -0.077814
+female - male bias for follower: 0.077814
+
+
+BERT MODEL:
+----------------------------------
+male - female bias for leader: 0.054771
+female - male bias for leader: -0.054771
+----------------------------------
+male - female bias for follower: 0.009190
+female - male bias for follower: -0.009190
+----------------------------------
+male - female bias for pleasant: 0.020618
+female - male bias for pleasant: -0.020618
+----------------------------------
+male - female bias for unpleasant: -0.018872
+female - male bias for unpleasant: 0.018872
+----------------------------------
+male - female bias for career: 0.434628
+female - male bias for career: -0.434628
+----------------------------------
+male - female bias for family: -0.012740
+female - male bias for family: 0.012740
+—
+----------------------------------
+male - female bias for leader: 0.100076
+female - male bias for leader: -0.100076
+----------------------------------
+male - female bias for follower: 0.067894
+female - male bias for follower: -0.067894
+
+
+TRUMP MODEL:
+----------------------------------
+male - female bias for leader: 1.019539
+female - male bias for leader: -1.019539
+----------------------------------
+male - female bias for follower: 0.545638
+female - male bias for follower: -0.545638
+----------------------------------
+male - female bias for pleasant: 0.126569
+female - male bias for pleasant: -0.126569
+----------------------------------
+male - female bias for unpleasant: -0.310044
+female - male bias for unpleasant: 0.310044
+----------------------------------
+male - female bias for career: 0.031894
+female - male bias for career: -0.031894
+----------------------------------
+male - female bias for family: -0.348830
+female - male bias for family: 0.348830
+—
+----------------------------------
+male - female bias for leader: 0.735615
+female - male bias for leader: -0.735615
+----------------------------------
+male - female bias for follower: 0.255221
+female - male bias for follower: -0.255221
+
+
+HILLARY MODEL:
+----------------------------------
+male - female bias for leader: -0.250071
+female - male bias for leader: 0.250071
+----------------------------------
+male - female bias for follower: -0.466313
+female - male bias for follower: 0.466313
+----------------------------------
+male - female bias for pleasant: -0.328318
+female - male bias for pleasant: 0.328318
+----------------------------------
+male - female bias for unpleasant: 0.272536
+female - male bias for unpleasant: -0.272536
+----------------------------------
+male - female bias for career: 0.539774
+female - male bias for career: -0.539774
+----------------------------------
+male - female bias for family: 0.389871
+female - male bias for family: -0.389871
+—
+----------------------------------
+male - female bias for leader: -0.304735
+female - male bias for leader: 0.304735
+----------------------------------
+male - female bias for follower: -0.161418
+female - male bias for follower: 0.161418
+
+
+TRUMP MODEL (LESS DATA 2016 HILLARY VS TRUMP):
+----------------------------------
+male - female bias for leader: 0.624441
+female - male bias for leader: -0.624441
+----------------------------------
+male - female bias for follower: 0.076517
+female - male bias for follower: -0.076517
+----------------------------------
+male - female bias for pleasant: -0.172791
+female - male bias for pleasant: 0.172791
+----------------------------------
+male - female bias for unpleasant: -0.221225
+female - male bias for unpleasant: 0.221225
+----------------------------------
+male - female bias for career: 0.968476
+female - male bias for career: -0.968476
+----------------------------------
+male - female bias for family: 0.138593
+female - male bias for family: -0.138593
+—
+----------------------------------
+male - female bias for leader: 0.483191
+female - male bias for leader: -0.483191
+----------------------------------
+male - female bias for follower: 0.038535
+female - male bias for follower: -0.038535

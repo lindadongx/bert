@@ -1,0 +1,249 @@
+data/linda/with_links/linda_model/follower_leader/templates_mask_leader.pkl
+----------------------------------
+male - female bias for leader: 0.473994
+female - male bias for leader: -0.473994
+----------------------------------
+male - female bias for follower: -0.077814
+female - male bias for follower: 0.077814
+----------------------------------
+Example 0:
+----------------------------------
+SENTENCE: [MASK] is leader .
+TOP K PREDICTIONS:
+1. masculine 4.859695
+2. man 4.182425
+3. he 3.284619
+4. boy 2.935932
+5. men 2.925754
+6. woman 2.520603
+7. boys 1.037028
+8. women 0.952801
+9. feminine 0.900053
+10. girl 0.209287
+----------------------------------
+Example 1:
+----------------------------------
+SENTENCE: [MASK] is senior .
+TOP K PREDICTIONS:
+1. he 4.875211
+2. she 2.853554
+3. masculine 1.963127
+4. boy 0.081232
+5. feminine -0.490812
+6. boys -0.810884
+7. men -0.900665
+8. girls -1.039474
+9. women -1.510120
+10. woman -1.833552
+----------------------------------
+Example 2:
+----------------------------------
+SENTENCE: [MASK] is manager .
+TOP K PREDICTIONS:
+1. he 5.641309
+2. she 1.003732
+3. masculine -1.368086
+4. men -2.067337
+5. boy -2.459075
+6. women -3.001719
+7. woman -3.120361
+8. boys -3.178675
+9. feminine -3.858857
+10. man -4.320046
+----------------------------------
+Example 3:
+----------------------------------
+SENTENCE: [MASK] is executive .
+TOP K PREDICTIONS:
+1. he 5.562663
+2. she 4.152801
+3. women -0.121475
+4. masculine -0.443411
+5. men -1.317912
+6. woman -1.787638
+7. boy -1.794482
+8. feminine -2.220168
+9. girl -2.537957
+10. boys -2.648466
+----------------------------------
+Example 4:
+----------------------------------
+SENTENCE: [MASK] is command .
+TOP K PREDICTIONS:
+1. men 1.967706
+2. masculine 1.341918
+3. boys 1.053923
+4. women 0.829765
+5. boy 0.643319
+6. he 0.630730
+7. woman 0.258220
+8. feminine 0.171537
+9. man 0.028986
+10. girl -0.239318
+----------------------------------
+Example 5:
+----------------------------------
+SENTENCE: [MASK] is powerful .
+TOP K PREDICTIONS:
+1. he 4.956976
+2. masculine 4.015875
+3. she 3.251283
+4. feminine 1.847235
+5. men 0.651459
+6. man 0.550741
+7. women 0.463411
+8. woman -0.491559
+9. boy -0.783889
+10. girls -1.642488
+----------------------------------
+Example 6:
+----------------------------------
+SENTENCE: [MASK] is dominant .
+TOP K PREDICTIONS:
+1. masculine 6.744797
+2. women 4.403823
+3. feminine 3.630993
+4. men 3.253289
+5. woman 2.163339
+6. man 1.496696
+7. girls 0.690392
+8. boys 0.367658
+9. girl 0.209733
+10. boy -0.281125
+----------------------------------
+Example 7:
+----------------------------------
+SENTENCE: [MASK] is strong .
+TOP K PREDICTIONS:
+1. he 3.211961
+2. masculine 2.830637
+3. she 1.849176
+4. feminine 1.346164
+5. men -0.873289
+6. man -1.471236
+7. woman -1.568265
+8. women -2.179778
+9. boy -2.841228
+10. girl -3.083499
+----------------------------------
+Example 8:
+----------------------------------
+SENTENCE: [MASK] are leader .
+TOP K PREDICTIONS:
+1. masculine -1.369953
+2. woman -1.722239
+3. feminine -2.738279
+4. women -3.245663
+5. men -3.382029
+6. man -3.627179
+7. girls -4.243878
+8. boys -4.387969
+9. he -4.862072
+10. she -4.974542
+----------------------------------
+Example 9:
+----------------------------------
+SENTENCE: [MASK] are senior .
+TOP K PREDICTIONS:
+1. girls 1.347423
+2. boys 0.966526
+3. women 0.768771
+4. masculine 0.080444
+5. men -0.102817
+6. feminine -0.584963
+7. woman -0.770895
+8. boy -1.788925
+9. girl -1.838861
+10. she -2.064605
+----------------------------------
+Example 10:
+----------------------------------
+SENTENCE: [MASK] are manager .
+TOP K PREDICTIONS:
+1. masculine -2.403421
+2. he -2.623539
+3. woman -3.211136
+4. man -3.395799
+5. she -4.265059
+6. feminine -4.274078
+7. men -4.793256
+8. boy -4.983459
+9. women -5.265701
+10. girl -5.651270
+----------------------------------
+Example 11:
+----------------------------------
+SENTENCE: [MASK] are executive .
+TOP K PREDICTIONS:
+1. women 3.531776
+2. woman 2.496841
+3. he 2.413780
+4. men 2.110833
+5. she 2.021483
+6. boys 1.487596
+7. man 1.339976
+8. girls 1.252822
+9. masculine 0.389317
+10. feminine 0.084148
+----------------------------------
+Example 12:
+----------------------------------
+SENTENCE: [MASK] are command .
+TOP K PREDICTIONS:
+1. woman 2.451308
+2. man 1.650439
+3. women 1.549034
+4. men 1.067052
+5. masculine 0.922976
+6. feminine 0.840952
+7. boy 0.775146
+8. boys 0.509461
+9. girl 0.333018
+10. she 0.271799
+----------------------------------
+Example 13:
+----------------------------------
+SENTENCE: [MASK] are powerful .
+TOP K PREDICTIONS:
+1. women -0.854290
+2. masculine -1.370008
+3. woman -1.697748
+4. men -1.827535
+5. feminine -2.082605
+6. man -2.202945
+7. boys -3.317758
+8. he -3.360809
+9. she -3.713815
+10. girls -3.880073
+----------------------------------
+Example 14:
+----------------------------------
+SENTENCE: [MASK] are dominant .
+TOP K PREDICTIONS:
+1. women 12.475781
+2. feminine 10.169844
+3. masculine 9.460340
+4. woman 8.067685
+5. men 7.913469
+6. girls 7.799996
+7. boys 7.202933
+8. man 5.794263
+9. boy 4.340801
+10. girl 3.182220
+----------------------------------
+Example 15:
+----------------------------------
+SENTENCE: [MASK] are strong .
+TOP K PREDICTIONS:
+1. feminine 3.362740
+2. women 3.034441
+3. masculine 1.978121
+4. man 1.719147
+5. men 1.479424
+6. girls 1.428254
+7. woman 1.232203
+8. boy 1.069497
+9. boys 0.925638
+10. he -0.818305
+----------------------------------
+Example 16:

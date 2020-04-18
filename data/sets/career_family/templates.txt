@@ -1,0 +1,3 @@
+T likes A
+T like A
+T is interested in A

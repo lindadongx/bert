@@ -1,0 +1,72 @@
+she likes home
+she likes parents
+she likes children
+she likes family
+she likes cousins
+she likes marriage
+she likes wedding
+she likes relatives
+girls likes home
+girls likes parents
+girls likes children
+girls likes family
+girls likes cousins
+girls likes marriage
+girls likes wedding
+girls likes relatives
+women likes home
+women likes parents
+women likes children
+women likes family
+women likes cousins
+women likes marriage
+women likes wedding
+women likes relatives
+she like home
+she like parents
+she like children
+she like family
+she like cousins
+she like marriage
+she like wedding
+she like relatives
+girls like home
+girls like parents
+girls like children
+girls like family
+girls like cousins
+girls like marriage
+girls like wedding
+girls like relatives
+women like home
+women like parents
+women like children
+women like family
+women like cousins
+women like marriage
+women like wedding
+women like relatives
+she is interested in home
+she is interested in parents
+she is interested in children
+she is interested in family
+she is interested in cousins
+she is interested in marriage
+she is interested in wedding
+she is interested in relatives
+girls is interested in home
+girls is interested in parents
+girls is interested in children
+girls is interested in family
+girls is interested in cousins
+girls is interested in marriage
+girls is interested in wedding
+girls is interested in relatives
+women is interested in home
+women is interested in parents
+women is interested in children
+women is interested in family
+women is interested in cousins
+women is interested in marriage
+women is interested in wedding
+women is interested in relatives

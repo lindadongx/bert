@@ -1,0 +1,24 @@
+[MASK] likes home
+[MASK] likes parents
+[MASK] likes children
+[MASK] likes family
+[MASK] likes cousins
+[MASK] likes marriage
+[MASK] likes wedding
+[MASK] likes relatives
+[MASK] like home
+[MASK] like parents
+[MASK] like children
+[MASK] like family
+[MASK] like cousins
+[MASK] like marriage
+[MASK] like wedding
+[MASK] like relatives
+[MASK] is interested in home
+[MASK] is interested in parents
+[MASK] is interested in children
+[MASK] is interested in family
+[MASK] is interested in cousins
+[MASK] is interested in marriage
+[MASK] is interested in wedding
+[MASK] is interested in relatives

@@ -1,0 +1,3 @@
+[MASK] likes [MASK]
+[MASK] like [MASK]
+[MASK] is interested in [MASK]

@@ -1,0 +1,16 @@
+[MASK] is follower
+[MASK] is junior
+[MASK] is subordinate
+[MASK] is assistant
+[MASK] is obey
+[MASK] is powerless
+[MASK] is meek
+[MASK] is weak
+[MASK] are follower
+[MASK] are junior
+[MASK] are subordinate
+[MASK] are assistant
+[MASK] are obey
+[MASK] are powerless
+[MASK] are meek
+[MASK] are weak

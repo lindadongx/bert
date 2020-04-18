@@ -1,0 +1,273 @@
+data/more_hillary/with_links/hillary_model/career_family/templates_mask_career.pkl
+----------------------------------
+male - female bias for career: 0.539774
+female - male bias for career: -0.539774
+----------------------------------
+male - female bias for family: 0.389871
+female - male bias for family: -0.389871
+----------------------------------
+Example 0:
+----------------------------------
+SENTENCE: [MASK] likes executive .
+TOP K PREDICTIONS:
+1. men 0.875648
+2. women 0.169792
+3. girls 0.129786
+4. boys -1.383050
+5. he -2.324781
+6. she -2.331055
+----------------------------------
+Example 1:
+----------------------------------
+SENTENCE: [MASK] likes management .
+TOP K PREDICTIONS:
+1. men 1.606870
+2. he 0.447654
+3. boys 0.369574
+4. women -0.460649
+5. girls -0.554379
+6. she -0.730581
+----------------------------------
+Example 2:
+----------------------------------
+SENTENCE: [MASK] likes professional .
+TOP K PREDICTIONS:
+1. men 2.774134
+2. he 0.728437
+3. boys 0.117694
+4. girls -0.256586
+5. women -0.568729
+6. she -0.985755
+----------------------------------
+Example 3:
+----------------------------------
+SENTENCE: [MASK] likes corporation .
+TOP K PREDICTIONS:
+1. men 2.285228
+2. women 0.990386
+3. he 0.599258
+4. boys 0.303880
+5. girls 0.235586
+6. she -0.360576
+----------------------------------
+Example 4:
+----------------------------------
+SENTENCE: [MASK] likes salary .
+TOP K PREDICTIONS:
+1. men 0.692848
+2. he 0.276301
+3. boys -0.056961
+4. women -0.090732
+5. she -0.159430
+6. girls -0.465272
+----------------------------------
+Example 5:
+----------------------------------
+SENTENCE: [MASK] likes office .
+TOP K PREDICTIONS:
+1. men 2.172534
+2. boys 0.419441
+3. he 0.389004
+4. women 0.166671
+5. she -0.414390
+6. girls -0.823193
+----------------------------------
+Example 6:
+----------------------------------
+SENTENCE: [MASK] likes business .
+TOP K PREDICTIONS:
+1. men 1.602620
+2. he 1.112460
+3. boys 0.414817
+4. she -1.608011
+5. women -1.785252
+6. girls -2.280716
+----------------------------------
+Example 7:
+----------------------------------
+SENTENCE: [MASK] likes career .
+TOP K PREDICTIONS:
+1. men 1.050380
+2. women -1.845216
+3. he -1.955053
+4. boys -2.710784
+5. she -2.726521
+6. girls -3.010400
+----------------------------------
+Example 8:
+----------------------------------
+SENTENCE: [MASK] like executive .
+TOP K PREDICTIONS:
+1. men 0.617816
+2. women 0.566297
+3. girls -0.739058
+4. she -0.980744
+5. he -1.021580
+6. boys -1.349267
+----------------------------------
+Example 9:
+----------------------------------
+SENTENCE: [MASK] like management .
+TOP K PREDICTIONS:
+1. he -0.607820
+2. men -0.815377
+3. women -1.603571
+4. girls -2.143908
+5. she -2.199757
+6. boys -2.864506
+----------------------------------
+Example 10:
+----------------------------------
+SENTENCE: [MASK] like professional .
+TOP K PREDICTIONS:
+1. she -1.269399
+2. men -1.557500
+3. women -2.069942
+4. he -2.284491
+5. girls -2.610376
+6. boys -3.911691
+----------------------------------
+Example 11:
+----------------------------------
+SENTENCE: [MASK] like corporation .
+TOP K PREDICTIONS:
+1. men 2.010829
+2. women 0.766871
+3. girls 0.301334
+4. boys 0.071404
+5. he -1.844517
+6. she -2.974391
+----------------------------------
+Example 12:
+----------------------------------
+SENTENCE: [MASK] like salary .
+TOP K PREDICTIONS:
+1. men 1.229290
+2. girls 0.758102
+3. boys 0.423605
+4. women 0.116244
+5. he -0.974808
+6. she -1.580496
+----------------------------------
+Example 13:
+----------------------------------
+SENTENCE: [MASK] like office .
+TOP K PREDICTIONS:
+1. he 0.303308
+2. she 0.058144
+3. men -0.708093
+4. girls -1.754458
+5. women -1.970131
+6. boys -2.391931
+----------------------------------
+Example 14:
+----------------------------------
+SENTENCE: [MASK] like business .
+TOP K PREDICTIONS:
+1. he 0.057960
+2. she -0.756485
+3. men -2.205948
+4. women -2.474063
+5. girls -3.227843
+6. boys -3.561198
+----------------------------------
+Example 15:
+----------------------------------
+SENTENCE: [MASK] like career .
+TOP K PREDICTIONS:
+1. he -1.374690
+2. she -2.746716
+3. boys -3.851449
+4. men -4.534449
+5. girls -5.549536
+6. women -7.244791
+----------------------------------
+Example 16:
+----------------------------------
+SENTENCE: [MASK] is interested in executive .
+TOP K PREDICTIONS:
+1. she 2.331974
+2. he 1.565925
+3. women 1.420946
+4. girls 1.064389
+5. boys 0.864555
+6. men 0.408509
+----------------------------------
+Example 17:
+----------------------------------
+SENTENCE: [MASK] is interested in management .
+TOP K PREDICTIONS:
+1. boys 3.117103
+2. he 2.593854
+3. she 2.185949
+4. men 0.761584
+5. girls 0.417187
+6. women 0.073445
+----------------------------------
+Example 18:
+----------------------------------
+SENTENCE: [MASK] is interested in professional .
+TOP K PREDICTIONS:
+1. she 2.509658
+2. boys 2.232635
+3. he 1.789959
+4. girls 1.649261
+5. men 1.210414
+6. women 0.778136
+----------------------------------
+Example 19:
+----------------------------------
+SENTENCE: [MASK] is interested in corporation .
+TOP K PREDICTIONS:
+1. he -0.910963
+2. she -1.635669
+3. men -1.701842
+4. girls -2.120684
+5. boys -2.138960
+6. women -2.145521
+----------------------------------
+Example 20:
+----------------------------------
+SENTENCE: [MASK] is interested in salary .
+TOP K PREDICTIONS:
+1. men -3.325656
+2. girls -3.438793
+3. women -4.381093
+4. boys -4.498703
+5. he -4.820763
+6. she -5.116750
+----------------------------------
+Example 21:
+----------------------------------
+SENTENCE: [MASK] is interested in office .
+TOP K PREDICTIONS:
+1. women -0.115416
+2. girls -0.963486
+3. she -1.010469
+4. boys -1.542706
+5. he -2.027394
+6. men -2.266978
+----------------------------------
+Example 22:
+----------------------------------
+SENTENCE: [MASK] is interested in business .
+TOP K PREDICTIONS:
+1. boys 3.969848
+2. she 2.504005
+3. he 2.349642
+4. girls 1.794533
+5. men 1.405208
+6. women 0.828964
+----------------------------------
+Example 23:
+----------------------------------
+SENTENCE: [MASK] is interested in career .
+TOP K PREDICTIONS:
+1. girls 1.681544
+2. she 0.710606
+3. women 0.662588
+4. boys 0.448381
+5. men -0.213784
+6. he -0.477738
+----------------------------------
+Example 24:

@@ -1,0 +1,16 @@
+[MASK] is leader
+[MASK] is senior
+[MASK] is manager
+[MASK] is executive
+[MASK] is command
+[MASK] is powerful
+[MASK] is dominant
+[MASK] is strong
+[MASK] are leader
+[MASK] are senior
+[MASK] are manager
+[MASK] are executive
+[MASK] are command
+[MASK] are powerful
+[MASK] are dominant
+[MASK] are strong

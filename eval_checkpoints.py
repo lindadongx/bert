@@ -23,6 +23,10 @@ import modeling
 import optimization
 import tensorflow as tf
 import pickle
+import csv
+
+global all_results
+all_results = []
 
 flags = tf.flags
 
@@ -259,7 +263,7 @@ def model_fn_builder(bert_config, init_checkpoint, learning_rate,
 
 
 def get_masked_lm_output(bert_config, input_tensor, output_weights, positions,
-                         label_ids, label_weights, add_dense = False):
+                         label_ids, label_weights):
   """Get loss and log probs for the masked LM."""
   input_tensor = gather_indexes(input_tensor, positions)
 
@@ -274,24 +278,6 @@ def get_masked_lm_output(bert_config, input_tensor, output_weights, positions,
           kernel_initializer=modeling.create_initializer(
               bert_config.initializer_range))
       input_tensor = modeling.layer_norm(input_tensor)
-
-    if add_dense:
-        with tf.variable_scope("transform2"):
-            input_tensor = tf.layers.dense(
-                    input_tensor,
-                    units=bert_config.hidden_size,
-                    activation=modeling.get_activation(bert_config.hidden_act),
-                    kernel_initializer=modeling.create_initializer(
-                        bert_config.initializer_range))
-            input_tensor = modeling.layer_norm(input_tensor)
-        with tf.variable_scope("transform3"):
-            input_tensor = tf.layers.dense(
-                    input_tensor,
-                    units=bert_config.hidden_size,
-                    activation=modeling.get_activation(bert_config.hidden_act),
-                    kernel_initializer=modeling.create_initializer(
-                        bert_config.initializer_range))
-            input_tensor = modeling.layer_norm(input_tensor)
 
     # The output weights are the same as the input embeddings, but there is
     # an output-only bias for each token.
@@ -451,7 +437,8 @@ def _decode_record(record, name_to_features):
   return example
 
 
-def main(_):
+def main(eval_time):
+  global all_results
   tf.logging.set_verbosity(tf.logging.INFO)
 
   if not FLAGS.do_train and not FLAGS.do_eval and not FLAGS.do_predict:
@@ -527,6 +514,8 @@ def main(_):
     result = estimator.evaluate(
         input_fn=eval_input_fn, steps=FLAGS.max_eval_steps)
 
+    result['time'] = eval_time
+    all_results.append(result)
     output_eval_file = os.path.join(FLAGS.output_dir, "eval_results.txt")
     with tf.gfile.GFile(output_eval_file, "w") as writer:
       tf.logging.info("***** Eval results *****")
@@ -571,4 +560,17 @@ if __name__ == "__main__":
   flags.mark_flag_as_required("input_file")
   flags.mark_flag_as_required("bert_config_file")
   flags.mark_flag_as_required("output_dir")
-  tf.app.run()
+
+  ckpt, num_steps = flags.FLAGS.init_checkpoint.split('-')
+  for i in range(int(num_steps) // 1000 + 1):
+    if i == 0:
+        flags.FLAGS.init_checkpoint = os.path.join(os.getcwd(), 'uncased_L-12_H-768_A-12/bert_model.ckpt')
+    else:
+        flags.FLAGS.init_checkpoint = ('-').join([ckpt, str(i * 1000)])
+    main(i)
+    #tf.app.run()
+  with open(flags.FLAGS.eval_file, 'w') as f:
+    csv_keys = list(all_results[0].keys())
+    csv_writer = csv.DictWriter(f, csv_keys)
+    csv_writer.writeheader()
+    csv_writer.writerows(all_results)

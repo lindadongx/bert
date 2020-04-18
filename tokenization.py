@@ -209,11 +209,13 @@ class BasicTokenizer(object):
     orig_tokens = whitespace_tokenize(text)
     split_tokens = []
     for token in orig_tokens:
+      if token == '[MASK]':
+        split_tokens.append(token)
+        continue
       if self.do_lower_case:
         token = token.lower()
         token = self._run_strip_accents(token)
       split_tokens.extend(self._run_split_on_punc(token))
-
     output_tokens = whitespace_tokenize(" ".join(split_tokens))
     return output_tokens
 

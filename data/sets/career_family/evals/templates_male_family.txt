@@ -1,0 +1,72 @@
+he likes home
+he likes parents
+he likes children
+he likes family
+he likes cousins
+he likes marriage
+he likes wedding
+he likes relatives
+boys likes home
+boys likes parents
+boys likes children
+boys likes family
+boys likes cousins
+boys likes marriage
+boys likes wedding
+boys likes relatives
+men likes home
+men likes parents
+men likes children
+men likes family
+men likes cousins
+men likes marriage
+men likes wedding
+men likes relatives
+he like home
+he like parents
+he like children
+he like family
+he like cousins
+he like marriage
+he like wedding
+he like relatives
+boys like home
+boys like parents
+boys like children
+boys like family
+boys like cousins
+boys like marriage
+boys like wedding
+boys like relatives
+men like home
+men like parents
+men like children
+men like family
+men like cousins
+men like marriage
+men like wedding
+men like relatives
+he is interested in home
+he is interested in parents
+he is interested in children
+he is interested in family
+he is interested in cousins
+he is interested in marriage
+he is interested in wedding
+he is interested in relatives
+boys is interested in home
+boys is interested in parents
+boys is interested in children
+boys is interested in family
+boys is interested in cousins
+boys is interested in marriage
+boys is interested in wedding
+boys is interested in relatives
+men is interested in home
+men is interested in parents
+men is interested in children
+men is interested in family
+men is interested in cousins
+men is interested in marriage
+men is interested in wedding
+men is interested in relatives

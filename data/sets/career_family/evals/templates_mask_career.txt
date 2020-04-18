@@ -1,0 +1,24 @@
+[MASK] likes executive
+[MASK] likes management
+[MASK] likes professional
+[MASK] likes corporation
+[MASK] likes salary
+[MASK] likes office
+[MASK] likes business
+[MASK] likes career
+[MASK] like executive
+[MASK] like management
+[MASK] like professional
+[MASK] like corporation
+[MASK] like salary
+[MASK] like office
+[MASK] like business
+[MASK] like career
+[MASK] is interested in executive
+[MASK] is interested in management
+[MASK] is interested in professional
+[MASK] is interested in corporation
+[MASK] is interested in salary
+[MASK] is interested in office
+[MASK] is interested in business
+[MASK] is interested in career
